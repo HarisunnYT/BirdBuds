@@ -14,7 +14,8 @@ public class PlayerController : MonoBehaviour
         WingsMid,
         WingsBig,
 
-        BirdRider
+        BirdRider,
+        MagicRider
     }
 
     [System.Serializable]
@@ -36,6 +37,10 @@ public class PlayerController : MonoBehaviour
     private CharacterData technicalData;
     public CharacterData TechnicalData { get { return technicalData; } }
 
+    [Space()]
+    [SerializeField]
+    private GameObject transformParticle;
+
     public CharacterData CurrentMovementData { get; private set; }
     public MovementType CurrentMovementType { get; private set; } = MovementType.Normal;
 
@@ -43,15 +48,16 @@ public class PlayerController : MonoBehaviour
 
     public bool Grounded { get; private set; } = false;
     public bool HoldingJump { get; private set; } = false;
+    public int Direction { get; private set; } = 1;
 
     private BaseMovement baseMovement;
 
     private Animator animator;
     private Rigidbody2D rigidbody;
+    private SpriteRenderer spriteRenderer;
 
     private Vector3 originalScale;
 
-    private int previousScale = 1;
     private float previousScaleSwappedTimer = 0;
 
     private bool attacking = false;
@@ -65,9 +71,10 @@ public class PlayerController : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rigidbody = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
         originalScale = transform.localScale;
 
-        SetMovementType(MovementType.Normal);
+        SetMovementType(MovementType.Normal, false);
 
         //8 == player layer
         invertedPlayerMask = ~(1 << 8);
@@ -80,11 +87,23 @@ public class PlayerController : MonoBehaviour
 
         animator.SetBool("Running", InputAxis.x != 0);
 
+        //TODO REMOVE
+        if (Input.GetButtonDown("Tab"))
+        {
+            transformType += (int)Input.GetAxisRaw("Tab");
+            if (transformType > MovementType.MagicRider)
+                transformType = MovementType.Copter;
+            else if (transformType < MovementType.Copter)
+                transformType = MovementType.MagicRider;
+
+            SetMovementType(transformType);
+        }
+
         //flip scale
         if (InputAxis.x != 0 && Time.time > previousScaleSwappedTimer)
         {
-            transform.localScale = new Vector3(originalScale.x * roundedXAxis, transform.localScale.y, transform.localScale.z);
-            previousScale = (int)transform.localScale.x;
+            Direction = roundedXAxis;
+            spriteRenderer.flipX = Direction == 1 ? false : true;
 
             previousScaleSwappedTimer = Time.time + technicalData.GetValue(DataKeys.FlipScaleDamper);
         }
@@ -138,7 +157,7 @@ public class PlayerController : MonoBehaviour
         return CurrentMovementData.GetValue(DataKeys.MaxVerticalSpeed);
     }
 
-    public void SetMovementType(MovementType movementType)
+    public void SetMovementType(MovementType movementType, bool displayPuffParticle = true)
     {
         for (int i = 0; i < System.Enum.GetNames(typeof(MovementType)).Length; i++)
         {
@@ -166,5 +185,11 @@ public class PlayerController : MonoBehaviour
             baseMovement = new WingsMovement().Configure(this, rigidbody, animator);
         else
             baseMovement = new BaseMovement().Configure(this, rigidbody, animator);
+
+        if (displayPuffParticle)
+        {
+            GameObject particle = ObjectPooler.GetPooledObject(transformParticle);
+            particle.transform.position = new Vector3(transform.position.x, transform.position.y + 0.5f, particle.transform.position.z);
+        }
     }
 }

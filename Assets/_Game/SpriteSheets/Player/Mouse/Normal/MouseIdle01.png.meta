@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 40dd61d0608118f458fa32b2e563146a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7691405084523401092
+    second: BuddyIdle01_0
+  - first:
+      213: -195428612474109071
+    second: BuddyIdle01_1
+  - first:
+      213: -4158421476651920789
+    second: BuddyIdle01_2
+  - first:
+      213: -7087225257067302240
+    second: BuddyIdle01_3
+  - first:
+      213: -5154364196311325332
+    second: BuddyIdle01_4
+  - first:
+      213: 3795747049338326577
+    second: BuddyIdle01_5
+  - first:
+      213: -4811797733439577070
+    second: BuddyIdle01_6
+  - first:
+      213: -7245933144104771105
+    second: BuddyIdle01_7
+  - first:
+      213: -2649769490422236042
+    second: BuddyIdle01_8
+  - first:
+      213: 7700147221864298026
+    second: BuddyIdle01_9
+  - first:
+      213: -3590909013347024633
+    second: BuddyIdle01_10
+  - first:
+      213: -5719261508480870989
+    second: BuddyIdle01_11
+  - first:
+      213: 8194781039712842420
+    second: BuddyIdle01_12
+  - first:
+      213: -1397896302039478209
+    second: BuddyIdle01_13
+  - first:
+      213: 129152239108785638
+    second: BuddyIdle01_14
+  - first:
+      213: 351883091370615499
+    second: BuddyIdle01_15
+  - first:
+      213: 151246849465216189
+    second: BuddyIdle01_16
+  - first:
+      213: 6819447726287542017
+    second: BuddyIdle01_17
+  - first:
+      213: -3727052435046857872
+    second: BuddyIdle01_18
+  - first:
+      213: 1095993286698969777
+    second: BuddyIdle01_19
+  - first:
+      213: 415952194319439972
+    second: BuddyIdle01_20
+  - first:
+      213: 7068538750547714093
+    second: BuddyIdle01_21
+  - first:
+      213: -4399993029534448642
+    second: BuddyIdle01_22
+  - first:
+      213: 5734261639613106287
+    second: BuddyIdle01_0
+  - first:
+      213: -7298637139973182116
+    second: BuddyIdle01_1
+  - first:
+      213: 8307633555356985990
+    second: BuddyIdle01_2
+  - first:
+      213: -2042249317092993561
+    second: BuddyIdle01_3
+  - first:
+      213: 1668246798778238869
+    second: BuddyIdle01_4
+  - first:
+      213: -66968206244642551
+    second: BuddyIdle01_5
+  - first:
+      213: 8031382458419075877
+    second: BuddyIdle01_6
+  - first:
+      213: -5314861213933399108
+    second: BuddyIdle01_7
+  - first:
+      213: 7533858606982646693
+    second: BuddyIdle01_8
+  - first:
+      213: -6244997304690180511
+    second: BuddyIdle01_9
+  - first:
+      213: -1295772403716797987
+    second: BuddyIdle01_10
+  - first:
+      213: 1681830963290454394
+    second: BuddyIdle01_11
+  - first:
+      213: -2337894227493440813
+    second: BuddyIdle01_12
+  - first:
+      213: 9151395575283515737
+    second: BuddyIdle01_13
+  - first:
+      213: 7372846810323991538
+    second: BuddyIdle01_14
+  - first:
+      213: 8970085240313304934
+    second: BuddyIdle01_15
+  - first:
+      213: 7734423180173897111
+    second: BuddyBlueIdle01_0
+  - first:
+      213: -5588024517039133782
+    second: BuddyBlueIdle01_1
+  - first:
+      213: -418934336038850377
+    second: BuddyBlueIdle01_2
+  - first:
+      213: 7825106957741789166
+    second: BuddyBlueIdle01_3
+  - first:
+      213: -6707724628356914217
+    second: BuddyBlueIdle01_4
+  - first:
+      213: 1557189736524834933
+    second: BuddyBlueIdle01_5
+  - first:
+      213: 7026167100832749823
+    second: BuddyBlueIdle01_6
+  - first:
+      213: -1042033553923918248
+    second: BuddyBlueIdle01_7
+  - first:
+      213: -2384507542730379332
+    second: BuddyBlueIdle01_8
+  - first:
+      213: -4610213495737026864
+    second: BuddyBlueIdle01_9
+  - first:
+      213: -4669796795647107900
+    second: BuddyBlueIdle01_10
+  - first:
+      213: -5319054574547498882
+    second: BuddyBlueIdle01_11
+  - first:
+      213: 1627338385681126013
+    second: BuddyBlueIdle01_12
+  - first:
+      213: -4106886822119080124
+    second: BuddyBlueIdle01_13
+  - first:
+      213: -4349800505736455735
+    second: BuddyBlueIdle01_14
+  - first:
+      213: 8169391254119418866
+    second: BuddyBlueIdle01_15
+  - first:
+      213: -9085775801734985925
+    second: BuddyBlueIdle01_16
+  - first:
+      213: -7796489524211350460
+    second: BuddyBlueIdle01_17
+  - first:
+      213: 6979093061712362112
+    second: BuddyBlueIdle01_18
+  - first:
+      213: 8755969737486676271
+    second: BuddyBlueIdle01_19
+  - first:
+      213: 3858367960779846251
+    second: BuddyBlueIdle01_20
+  - first:
+      213: 1488281434092974609
+    second: BuddyBlueIdle01_21
+  - first:
+      213: -4865448136721867141
+    second: BuddyBlueIdle01_22
+  - first:
+      213: -7395358700700000463
+    second: BuddyBlueIdle01_0
+  - first:
+      213: 5577598507571055630
+    second: BuddyBlueIdle01_1
+  - first:
+      213: -2228026287125945775
+    second: BuddyBlueIdle01_2
+  - first:
+      213: 7320726887952683037
+    second: BuddyBlueIdle01_3
+  - first:
+      213: 3174383022790951955
+    second: BuddyBlueIdle01_4
+  - first:
+      213: -7240439603822280939
+    second: BuddyBlueIdle01_5
+  - first:
+      213: 5312512511886696401
+    second: BuddyBlueIdle01_6
+  - first:
+      213: 3888580401791061741
+    second: BuddyBlueIdle01_7
+  - first:
+      213: -388946120900523831
+    second: BuddyBlueIdle01_8
+  - first:
+      213: -1282528332561425181
+    second: BuddyBlueIdle01_9
+  - first:
+      213: 6121310204917112333
+    second: BuddyBlueIdle01_10
+  - first:
+      213: 8891346502405144032
+    second: BuddyBlueIdle01_11
+  - first:
+      213: 7340357083892314046
+    second: BuddyBlueIdle01_12
+  - first:
+      213: -6708537876505163212
+    second: BuddyBlueIdle01_13
+  - first:
+      213: 1929361362960193812
+    second: BuddyBlueIdle01_14
+  - first:
+      213: -2879299277357973446
+    second: BuddyBlueIdle01_15
+  - first:
+      213: 7165546104802120227
+    second: BuddyBlueIdle01_16
+  - first:
+      213: 8860725448807281841
+    second: BuddyBlueIdle01_17
+  - first:
+      213: -1261659703296434715
+    second: BuddyBlueIdle01_18
+  - first:
+      213: 4277637309853876984
+    second: BuddyBlueIdle01_19
+  - first:
+      213: -2900151884368217823
+    second: BuddyBlueIdle01_20
+  - first:
+      213: 1686941814052734428
+    second: BuddyBlueIdle01_21
+  - first:
+      213: -1360897786202464244
+    second: BuddyBlueIdle01_22
+  - first:
+      213: -6435251897765237770
+    second: MouseIdle01_0
+  - first:
+      213: 7407425707160638997
+    second: MouseIdle01_1
+  - first:
+      213: 100257479937577709
+    second: MouseIdle01_2
+  - first:
+      213: -5947523559701651726
+    second: MouseIdle01_3
+  - first:
+      213: 7260543255162346636
+    second: MouseIdle01_4
+  - first:
+      213: -6742628459103870969
+    second: MouseIdle01_5
+  - first:
+      213: 1546627993443772563
+    second: MouseIdle01_6
+  - first:
+      213: 680798624664202347
+    second: MouseIdle01_7
+  - first:
+      213: 1486791919603571204
+    second: MouseIdle01_8
+  - first:
+      213: -4055546574605193385
+    second: MouseIdle01_9
+  - first:
+      213: -5656990559385262228
+    second: MouseIdle01_10
+  - first:
+      213: 3515986156611948662
+    second: MouseIdle01_11
+  - first:
+      213: 7728153746145832248
+    second: MouseIdle01_12
+  - first:
+      213: 1140679748501027368
+    second: MouseIdle01_13
+  - first:
+      213: 9151937231116834893
+    second: MouseIdle01_14
+  - first:
+      213: -9065526177104882761
+    second: MouseIdle01_15
+  - first:
+      213: 4629088089079713015
+    second: MouseIdle01_16
+  - first:
+      213: -1936807241886052886
+    second: MouseIdle01_17
+  - first:
+      213: -1962341178928559610
+    second: MouseIdle01_18
+  - first:
+      213: -3288555354926573632
+    second: MouseIdle01_19
+  - first:
+      213: 4583662211229833266
+    second: MouseIdle01_20
+  - first:
+      213: -4887172023655892017
+    second: MouseIdle01_21
+  - first:
+      213: 3283391089631595189
+    second: MouseIdle01_22
+  - first:
+      213: 3884487197088184063
+    second: MouseIdle01_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MouseIdle01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 886
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb6b819e7461b6a0800000000000000
+      internalID: -6435251897765237770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 886
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51618673f667cc660800000000000000
+      internalID: 7407425707160638997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 886
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de251c595af246100800000000000000
+      internalID: 100257479937577709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 886
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe57b275d6267da0800000000000000
+      internalID: -5947523559701651726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 886
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c5f406f91a2c460800000000000000
+      internalID: 7260543255162346636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700aca2f32f5d62a0800000000000000
+      internalID: -6742628459103870969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 748
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39824e437f9b67510800000000000000
+      internalID: 1546627993443772563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 748
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c2faafdbea27900800000000000000
+      internalID: 680798624664202347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 748
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a54ee9f5522a410800000000000000
+      internalID: 1486791919603571204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_9
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 748
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fea9aa0edc7b7c0800000000000000
+      internalID: -4055546574605193385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c676a1aee055e71b0800000000000000
+      internalID: -5656990559385262228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 610
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670db0ce7ca4bc030800000000000000
+      internalID: 3515986156611948662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 610
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d60a8f2eaef3b60800000000000000
+      internalID: 7728153746145832248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_13
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 610
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ab2eb003284df00800000000000000
+      internalID: 1140679748501027368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_14
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 610
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4814633c66320f70800000000000000
+      internalID: 9151937231116834893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseIdle01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 173
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b398af19f7c03280800000000000000
+      internalID: -9065526177104882761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

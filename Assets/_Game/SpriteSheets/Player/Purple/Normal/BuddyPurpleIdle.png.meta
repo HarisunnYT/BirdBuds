@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: b4af9bdec554fc94ea92a3a9ee89f3ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7691405084523401092
+    second: BuddyIdle01_0
+  - first:
+      213: -195428612474109071
+    second: BuddyIdle01_1
+  - first:
+      213: -4158421476651920789
+    second: BuddyIdle01_2
+  - first:
+      213: -7087225257067302240
+    second: BuddyIdle01_3
+  - first:
+      213: -5154364196311325332
+    second: BuddyIdle01_4
+  - first:
+      213: 3795747049338326577
+    second: BuddyIdle01_5
+  - first:
+      213: -4811797733439577070
+    second: BuddyIdle01_6
+  - first:
+      213: -7245933144104771105
+    second: BuddyIdle01_7
+  - first:
+      213: -2649769490422236042
+    second: BuddyIdle01_8
+  - first:
+      213: 7700147221864298026
+    second: BuddyIdle01_9
+  - first:
+      213: -3590909013347024633
+    second: BuddyIdle01_10
+  - first:
+      213: -5719261508480870989
+    second: BuddyIdle01_11
+  - first:
+      213: 8194781039712842420
+    second: BuddyIdle01_12
+  - first:
+      213: -1397896302039478209
+    second: BuddyIdle01_13
+  - first:
+      213: 129152239108785638
+    second: BuddyIdle01_14
+  - first:
+      213: 351883091370615499
+    second: BuddyIdle01_15
+  - first:
+      213: 151246849465216189
+    second: BuddyIdle01_16
+  - first:
+      213: 6819447726287542017
+    second: BuddyIdle01_17
+  - first:
+      213: -3727052435046857872
+    second: BuddyIdle01_18
+  - first:
+      213: 1095993286698969777
+    second: BuddyIdle01_19
+  - first:
+      213: 415952194319439972
+    second: BuddyIdle01_20
+  - first:
+      213: 7068538750547714093
+    second: BuddyIdle01_21
+  - first:
+      213: -4399993029534448642
+    second: BuddyIdle01_22
+  - first:
+      213: 5734261639613106287
+    second: BuddyIdle01_0
+  - first:
+      213: -7298637139973182116
+    second: BuddyIdle01_1
+  - first:
+      213: 8307633555356985990
+    second: BuddyIdle01_2
+  - first:
+      213: -2042249317092993561
+    second: BuddyIdle01_3
+  - first:
+      213: 1668246798778238869
+    second: BuddyIdle01_4
+  - first:
+      213: -66968206244642551
+    second: BuddyIdle01_5
+  - first:
+      213: 8031382458419075877
+    second: BuddyIdle01_6
+  - first:
+      213: -5314861213933399108
+    second: BuddyIdle01_7
+  - first:
+      213: 7533858606982646693
+    second: BuddyIdle01_8
+  - first:
+      213: -6244997304690180511
+    second: BuddyIdle01_9
+  - first:
+      213: -1295772403716797987
+    second: BuddyIdle01_10
+  - first:
+      213: 1681830963290454394
+    second: BuddyIdle01_11
+  - first:
+      213: -2337894227493440813
+    second: BuddyIdle01_12
+  - first:
+      213: 9151395575283515737
+    second: BuddyIdle01_13
+  - first:
+      213: 7372846810323991538
+    second: BuddyIdle01_14
+  - first:
+      213: 8970085240313304934
+    second: BuddyIdle01_15
+  - first:
+      213: 7734423180173897111
+    second: BuddyBlueIdle01_0
+  - first:
+      213: -5588024517039133782
+    second: BuddyBlueIdle01_1
+  - first:
+      213: -418934336038850377
+    second: BuddyBlueIdle01_2
+  - first:
+      213: 7825106957741789166
+    second: BuddyBlueIdle01_3
+  - first:
+      213: -6707724628356914217
+    second: BuddyBlueIdle01_4
+  - first:
+      213: 1557189736524834933
+    second: BuddyBlueIdle01_5
+  - first:
+      213: 7026167100832749823
+    second: BuddyBlueIdle01_6
+  - first:
+      213: -1042033553923918248
+    second: BuddyBlueIdle01_7
+  - first:
+      213: -2384507542730379332
+    second: BuddyBlueIdle01_8
+  - first:
+      213: -4610213495737026864
+    second: BuddyBlueIdle01_9
+  - first:
+      213: -4669796795647107900
+    second: BuddyBlueIdle01_10
+  - first:
+      213: -5319054574547498882
+    second: BuddyBlueIdle01_11
+  - first:
+      213: 1627338385681126013
+    second: BuddyBlueIdle01_12
+  - first:
+      213: -4106886822119080124
+    second: BuddyBlueIdle01_13
+  - first:
+      213: -4349800505736455735
+    second: BuddyBlueIdle01_14
+  - first:
+      213: 8169391254119418866
+    second: BuddyBlueIdle01_15
+  - first:
+      213: -9085775801734985925
+    second: BuddyBlueIdle01_16
+  - first:
+      213: -7796489524211350460
+    second: BuddyBlueIdle01_17
+  - first:
+      213: 6979093061712362112
+    second: BuddyBlueIdle01_18
+  - first:
+      213: 8755969737486676271
+    second: BuddyBlueIdle01_19
+  - first:
+      213: 3858367960779846251
+    second: BuddyBlueIdle01_20
+  - first:
+      213: 1488281434092974609
+    second: BuddyBlueIdle01_21
+  - first:
+      213: -4865448136721867141
+    second: BuddyBlueIdle01_22
+  - first:
+      213: -7395358700700000463
+    second: BuddyBlueIdle01_0
+  - first:
+      213: 5577598507571055630
+    second: BuddyBlueIdle01_1
+  - first:
+      213: -2228026287125945775
+    second: BuddyBlueIdle01_2
+  - first:
+      213: 7320726887952683037
+    second: BuddyBlueIdle01_3
+  - first:
+      213: 3174383022790951955
+    second: BuddyBlueIdle01_4
+  - first:
+      213: -7240439603822280939
+    second: BuddyBlueIdle01_5
+  - first:
+      213: 5312512511886696401
+    second: BuddyBlueIdle01_6
+  - first:
+      213: 3888580401791061741
+    second: BuddyBlueIdle01_7
+  - first:
+      213: -388946120900523831
+    second: BuddyBlueIdle01_8
+  - first:
+      213: -1282528332561425181
+    second: BuddyBlueIdle01_9
+  - first:
+      213: 6121310204917112333
+    second: BuddyBlueIdle01_10
+  - first:
+      213: 8891346502405144032
+    second: BuddyBlueIdle01_11
+  - first:
+      213: 7340357083892314046
+    second: BuddyBlueIdle01_12
+  - first:
+      213: -6708537876505163212
+    second: BuddyBlueIdle01_13
+  - first:
+      213: 1929361362960193812
+    second: BuddyBlueIdle01_14
+  - first:
+      213: -2879299277357973446
+    second: BuddyBlueIdle01_15
+  - first:
+      213: 7165546104802120227
+    second: BuddyBlueIdle01_16
+  - first:
+      213: 8860725448807281841
+    second: BuddyBlueIdle01_17
+  - first:
+      213: -1261659703296434715
+    second: BuddyBlueIdle01_18
+  - first:
+      213: 4277637309853876984
+    second: BuddyBlueIdle01_19
+  - first:
+      213: -2900151884368217823
+    second: BuddyBlueIdle01_20
+  - first:
+      213: 1686941814052734428
+    second: BuddyBlueIdle01_21
+  - first:
+      213: -1360897786202464244
+    second: BuddyBlueIdle01_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 387
+        width: 142
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f9e2aa1786e5990800000000000000
+      internalID: -7395358700700000463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 387
+        width: 142
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c858f8a4c976d40800000000000000
+      internalID: 5577598507571055630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 387
+        width: 142
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15220ad75e57411e0800000000000000
+      internalID: -2228026287125945775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 387
+        width: 144
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1012165152789560800000000000000
+      internalID: 7320726887952683037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 387
+        width: 144
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3144c766a8cad0c20800000000000000
+      internalID: 3174383022790951955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 387
+        width: 144
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fb084ba8ac48b90800000000000000
+      internalID: -7240439603822280939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 387
+        width: 144
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df13df8bf5d9b940800000000000000
+      internalID: 5312512511886696401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 144
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee4d49d54307f530800000000000000
+      internalID: 3888580401791061741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 262
+        width: 144
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c845f2509f2a9af0800000000000000
+      internalID: -388946120900523831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 262
+        width: 144
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec5d43d64b833ee0800000000000000
+      internalID: -1282528332561425181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 262
+        width: 142
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ede04033343f450800000000000000
+      internalID: 6121310204917112333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_11
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 262
+        width: 142
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed35ca1988646b70800000000000000
+      internalID: 8891346502405144032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_12
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 262
+        width: 142
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf6ced70ef2ed560800000000000000
+      internalID: 7340357083892314046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_13
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 262
+        width: 144
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a08ac385c76e2a0800000000000000
+      internalID: -6708537876505163212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137
+        width: 142
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4191b9affe776ca10800000000000000
+      internalID: 1929361362960193812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBlueIdle01_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 137
+        width: 142
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a300a0bff8caa08d0800000000000000
+      internalID: -2879299277357973446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

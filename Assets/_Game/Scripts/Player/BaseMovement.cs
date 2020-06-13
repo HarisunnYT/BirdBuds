@@ -48,7 +48,7 @@ public class BaseMovement
         {
             Vector2 v = player.InputAxis;
             float angle = Mathf.Atan2(v.y, Mathf.Abs(v.x)) * Mathf.Rad2Deg;
-            player.transform.rotation = Quaternion.Lerp(player.transform.rotation, Quaternion.AngleAxis(angle, new Vector3(0, 0, player.transform.localScale.x)), 
+            player.transform.rotation = Quaternion.Lerp(player.transform.rotation, Quaternion.AngleAxis(angle, new Vector3(0, 0, player.Direction)), 
                                                         movementData.GetValue(DataKeys.RotationSpeed, 1) * deltaTime);
         }
     }
