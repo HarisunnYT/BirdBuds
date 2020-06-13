@@ -9,8 +9,12 @@ public class PlayerController : MonoBehaviour
         Normal,
         Copter,
         Cloth,
+
         WingsMini,
-        WingsMid
+        WingsMid,
+        WingsBig,
+
+        BirdRider
     }
 
     [System.Serializable]
@@ -38,6 +42,7 @@ public class PlayerController : MonoBehaviour
     public Vector2 InputAxis { get; private set; }
 
     public bool Grounded { get; private set; } = false;
+    public bool HoldingJump { get; private set; } = false;
 
     private BaseMovement baseMovement;
 
@@ -90,6 +95,8 @@ public class PlayerController : MonoBehaviour
             timeBetweenJumpTimer = Time.time + CurrentMovementData.GetValue(DataKeys.TimeBetweenJump);
         }
 
+        HoldingJump = Input.GetButton("Jump");
+
         if (Input.GetButtonDown("Transform"))
         {
             SetMovementType(CurrentMovementType == MovementType.Normal ? transformType : MovementType.Normal);
@@ -112,12 +119,13 @@ public class PlayerController : MonoBehaviour
 
         animator.SetBool("Attacking", attacking);
         animator.SetBool("Grounded", Grounded);
+        animator.SetBool("HoldingJump", HoldingJump);
     }
 
     private void FixedUpdate()
     {
         baseMovement.Update(Time.time);
-        baseMovement.Move();
+        baseMovement.Move(Time.deltaTime);
     }
 
     public float GetMaxHorizontalSpeed()
@@ -151,6 +159,12 @@ public class PlayerController : MonoBehaviour
         rigidbody.gravityScale = CurrentMovementData.GetValue(DataKeys.GravityScale);
         rigidbody.drag = CurrentMovementData.GetValue(DataKeys.LinearDrag);
 
-        baseMovement = new BaseMovement().Configure(this, rigidbody, animator);
+        if (baseMovement != null)
+            baseMovement.Deconfigure();
+
+        if (CurrentMovementType >= MovementType.WingsMini && CurrentMovementType <= MovementType.WingsBig)
+            baseMovement = new WingsMovement().Configure(this, rigidbody, animator);
+        else
+            baseMovement = new BaseMovement().Configure(this, rigidbody, animator);
     }
 }

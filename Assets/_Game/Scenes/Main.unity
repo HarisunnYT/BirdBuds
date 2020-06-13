@@ -582,4 +582,6 @@ MonoBehaviour:
     MovementData: {fileID: 11400000, guid: 33bd99460948f1a4ea395c73a9e55305, type: 2}
   - MovementType: 4
     MovementData: {fileID: 11400000, guid: d61de3116610a0647819a0c851be4756, type: 2}
+  - MovementType: 6
+    MovementData: {fileID: 11400000, guid: d4e59dd5ecba64341a43695955fef1b2, type: 2}
   technicalData: {fileID: 11400000, guid: 1de75a3608ce0594b9ef10b116afecf7, type: 2}

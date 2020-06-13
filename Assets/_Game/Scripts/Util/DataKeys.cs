@@ -15,6 +15,12 @@ public class DataKeys
     public const string JumpRequiresGrounded = "jump_requires_grounded";
     public const string TimeBetweenJump = "time_between_jump";
     public const string ResetVerticalVelocityOnJump = "reset_vertical_velocity_on_jump";
+    public const string RotateTowardsDirection = "rotate_towards_direction";
+    public const string RotationSpeed = "rotation_speed";
+    public const string ConstantMovement = "constant_movement";
+
+    //wing keys -------------------------------------------------------------------------------------- \\\\\\\\\\\\\\\\\\\\
+    public const string GlideGravityScale = "glide_gravity_scale";
 
     //combat keys -------------------------------------------------------------------------------------- \\\\\\\\\\\\\\\\\\\\\\
     public const string AttackSpeedDamper = "attack_speed_damper";

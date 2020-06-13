@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: e7a5246af1b959a49b0875c9f19caae4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8227792332966723060
+    second: BuddyBirdRider01_0
+  - first:
+      213: 5995662451211486786
+    second: BuddyBirdRider01_1
+  - first:
+      213: -4311463320658733113
+    second: BuddyBirdRider01_2
+  - first:
+      213: 634858766449503832
+    second: BuddyBirdRider01_3
+  - first:
+      213: -3327641808943646393
+    second: BuddyBirdRider01_4
+  - first:
+      213: -6474765942915675049
+    second: BuddyBirdRider01_5
+  - first:
+      213: 6289913543576636440
+    second: BuddyBirdRider01_6
+  - first:
+      213: -7344330145752248272
+    second: BuddyBirdRider01_7
+  - first:
+      213: 2089099959256245713
+    second: BuddyBirdRider01_8
+  - first:
+      213: -5860044449309874938
+    second: BuddyBirdRider01_0
+  - first:
+      213: -8640573511179915114
+    second: BuddyBirdRider01_1
+  - first:
+      213: -7529118422979849203
+    second: BuddyBirdRider01_2
+  - first:
+      213: -3355162779795613763
+    second: BuddyBirdRider01_3
+  - first:
+      213: 7599249858665767670
+    second: BuddyBirdRider01_4
+  - first:
+      213: -5977392338253359018
+    second: BuddyBirdRider01_5
+  - first:
+      213: -6250030177694877916
+    second: BuddyBirdRider01_6
+  - first:
+      213: 5019621737084879777
+    second: BuddyBirdRider01_7
+  - first:
+      213: 710749343185573634
+    second: BuddyBirdRider01_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyBirdRider01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683
+        width: 276
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605a2e60f90fcaea0800000000000000
+      internalID: -5860044449309874938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBirdRider01_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 683
+        width: 276
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b87adb24861880800000000000000
+      internalID: -8640573511179915114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBirdRider01_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 683
+        width: 276
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04df6e6fa2338790800000000000000
+      internalID: -7529118422979849203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBirdRider01_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 276
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db79baa6a311071d0800000000000000
+      internalID: -3355162779795613763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBirdRider01_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 342
+        width: 276
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2e531eb75f57960800000000000000
+      internalID: 7599249858665767670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBirdRider01_5
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 342
+        width: 276
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658544386590c0da0800000000000000
+      internalID: -5977392338253359018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBirdRider01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 276
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427760fdaae6349a0800000000000000
+      internalID: -6250030177694877916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBirdRider01_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1
+        width: 276
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a306c1ff5749a540800000000000000
+      internalID: 5019621737084879777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBirdRider01_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1
+        width: 276
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2071bec03c61dd900800000000000000
+      internalID: 710749343185573634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

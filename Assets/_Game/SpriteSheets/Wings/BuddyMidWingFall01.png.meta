@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 663437482d9311644bd5f4a5e9f666e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8326805922035578189
+    second: BuddyMidWingFall01_0
+  - first:
+      213: -5805742408182391444
+    second: BuddyMidWingFall01_1
+  - first:
+      213: -3966957612903782884
+    second: BuddyMidWingFall01_2
+  - first:
+      213: 8337880555841028674
+    second: BuddyMidWingFall01_3
+  - first:
+      213: -6004013366455690725
+    second: BuddyMidWingFall01_4
+  - first:
+      213: -5137350382123784141
+    second: BuddyMidWingFall01_5
+  - first:
+      213: 1469559689990625276
+    second: BuddyMidWingFall01_6
+  - first:
+      213: -627878598693327396
+    second: BuddyMidWingFall01_7
+  - first:
+      213: 3523440060987563174
+    second: BuddyMidWingFall01_8
+  - first:
+      213: 6818829672796702580
+    second: BuddyMidWingFall01_9
+  - first:
+      213: -912703522583675669
+    second: BuddyMidWingFall01_10
+  - first:
+      213: -5712709871934489695
+    second: BuddyMidWingFall01_11
+  - first:
+      213: 6366002686776735077
+    second: BuddyMidWingFall01_12
+  - first:
+      213: 5946780859532583140
+    second: BuddyMidWingFall01_13
+  - first:
+      213: 7836038911955229170
+    second: BuddyMidWingFall01_14
+  - first:
+      213: -3794615861004967494
+    second: BuddyMidWingFall01_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 236
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45bc886ed1ce8370800000000000000
+      internalID: 8326805922035578189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 820
+        width: 236
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d1ed63a0cdd6fa0800000000000000
+      internalID: -5805742408182391444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 814
+        width: 236
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16a6d3a11982f8c0800000000000000
+      internalID: -3966957612903782884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 809
+        width: 236
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2428a86803a16b370800000000000000
+      internalID: 8337880555841028674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 236
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a16b167a57daca0800000000000000
+      internalID: -6004013366455690725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 570
+        width: 236
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3386bcadb0774b8b0800000000000000
+      internalID: -5137350382123784141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_6
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 569
+        width: 236
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7df1280cce46410800000000000000
+      internalID: 1469559689990625276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 568
+        width: 236
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd60dabdb35947f0800000000000000
+      internalID: -627878598693327396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 236
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac5b864116c5e030800000000000000
+      internalID: 3523440060987563174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 338
+        width: 236
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477c0fea57951ae50800000000000000
+      internalID: 6818829672796702580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 339
+        width: 236
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf62f5bfc6553f0800000000000000
+      internalID: -912703522583675669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingFall01_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 340
+        width: 236
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab3a7283a068b0b0800000000000000
+      internalID: -5712709871934489695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

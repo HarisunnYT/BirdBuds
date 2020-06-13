@@ -16,7 +16,7 @@ public class CharacterData : ScriptableObject
     [SerializeField]
     private DataItem[] data;
 
-    public float GetValue(string keyName)
+    public float GetValue(string keyName, float defaultValue = 0)
     {
         foreach(var d in data)
         {
@@ -26,6 +26,6 @@ public class CharacterData : ScriptableObject
             }
         }
 
-        return 0;
+        return defaultValue;
     }
 }
