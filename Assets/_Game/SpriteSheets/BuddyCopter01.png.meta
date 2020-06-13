@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 24fd739414a289347a0cdab17ed2c340
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4377530871677753588
+    second: BuddyCopter01_0
+  - first:
+      213: -649884103169393717
+    second: BuddyCopter01_1
+  - first:
+      213: 6545200060483402025
+    second: BuddyCopter01_2
+  - first:
+      213: 9221271098441958520
+    second: BuddyCopter01_3
+  - first:
+      213: -5741559483624472912
+    second: BuddyCopter01_4
+  - first:
+      213: 581720355311992449
+    second: BuddyCopter01_5
+  - first:
+      213: -4768275542862586109
+    second: BuddyCopter01_6
+  - first:
+      213: 1111879012187314411
+    second: BuddyCopter01_7
+  - first:
+      213: 5607654157913805877
+    second: BuddyCopter01_8
+  - first:
+      213: 574153216127719876
+    second: BuddyCopter01_9
+  - first:
+      213: 996760234572383735
+    second: BuddyCopter01_10
+  - first:
+      213: -5323922367595275283
+    second: BuddyCopter01_11
+  - first:
+      213: -3988474268259966384
+    second: BuddyCopter01_12
+  - first:
+      213: -5403250859257648700
+    second: BuddyCopter01_13
+  - first:
+      213: -8626234984247180525
+    second: BuddyCopter01_14
+  - first:
+      213: -370748688365938899
+    second: BuddyCopter01_15
+  - first:
+      213: 6924608189306064527
+    second: BuddyCopter01_16
+  - first:
+      213: -4992798280742524371
+    second: BuddyCopter01_17
+  - first:
+      213: 4287820411814841257
+    second: BuddyCopter01_18
+  - first:
+      213: -5360975573705681173
+    second: BuddyCopter01_19
+  - first:
+      213: -5316686581276741012
+    second: BuddyCopter01_20
+  - first:
+      213: 8847531615020997473
+    second: BuddyCopter01_21
+  - first:
+      213: -8888408771191293711
+    second: BuddyCopter01_22
+  - first:
+      213: 7453418684569074958
+    second: BuddyCopter01_23
+  - first:
+      213: 8257916314230528863
+    second: BuddyCopter01_24
+  - first:
+      213: -2178607064249901267
+    second: BuddyCopter01_25
+  - first:
+      213: -8767185873096699792
+    second: BuddyCopter01_26
+  - first:
+      213: 7215441708259513339
+    second: BuddyCopter01_27
+  - first:
+      213: 2221327488185019718
+    second: BuddyCopter01_28
+  - first:
+      213: -706756488308862404
+    second: BuddyCopter01_29
+  - first:
+      213: -3815992919611500198
+    second: BuddyCopter01_30
+  - first:
+      213: 5715186648251711919
+    second: BuddyCopter01_31
+  - first:
+      213: -765481267811116062
+    second: BuddyCopter01_32
+  - first:
+      213: 3091487315078707633
+    second: BuddyCopter01_33
+  - first:
+      213: 7345051205622981808
+    second: BuddyCopter01_34
+  - first:
+      213: -1891550669335139214
+    second: BuddyCopter01_35
+  - first:
+      213: -3607602301363954671
+    second: BuddyCopter01_36
+  - first:
+      213: -2324167285536360019
+    second: BuddyCopter01_37
+  - first:
+      213: 6739358748086984436
+    second: BuddyCopter01_38
+  - first:
+      213: -6651560171783558957
+    second: BuddyCopter01_39
+  - first:
+      213: 4027047027481881867
+    second: BuddyCopter01_40
+  - first:
+      213: -3991667424814739601
+    second: BuddyCopter01_41
+  - first:
+      213: -857221224309419551
+    second: BuddyCopter01_42
+  - first:
+      213: 3907778138800240903
+    second: BuddyCopter01_43
+  - first:
+      213: 2190876910124168558
+    second: BuddyCopter01_0
+  - first:
+      213: -7422359040985496370
+    second: BuddyCopter01_1
+  - first:
+      213: -1533188915936715255
+    second: BuddyCopter01_2
+  - first:
+      213: 3694560330677767288
+    second: BuddyCopter01_3
+  - first:
+      213: -7152360171036052594
+    second: BuddyCopter01_4
+  - first:
+      213: 5818301175400137340
+    second: BuddyCopter01_5
+  - first:
+      213: -2086119414223400528
+    second: BuddyCopter01_6
+  - first:
+      213: 6764034319113202717
+    second: BuddyCopter01_7
+  - first:
+      213: 7186716259174024632
+    second: BuddyCopter01_8
+  - first:
+      213: -2525248257687014168
+    second: BuddyCopter01_9
+  - first:
+      213: -7502066245926064928
+    second: BuddyCopter01_10
+  - first:
+      213: 1032234181260887666
+    second: BuddyCopter01_11
+  - first:
+      213: 5569162329985097873
+    second: BuddyCopter01_12
+  - first:
+      213: -4005875948429602726
+    second: BuddyCopter01_13
+  - first:
+      213: -5635044905640186379
+    second: BuddyCopter01_14
+  - first:
+      213: 2108106955572304018
+    second: BuddyCopter01_15
+  - first:
+      213: -2452799002518251742
+    second: BuddyCopter01_16
+  - first:
+      213: -1276586665763876990
+    second: BuddyCopter01_17
+  - first:
+      213: 4262791370903417485
+    second: BuddyCopter01_18
+  - first:
+      213: 3575437160443085788
+    second: BuddyCopter01_19
+  - first:
+      213: 7822532485302984144
+    second: BuddyCopter01_20
+  - first:
+      213: 4858427045806207742
+    second: BuddyCopter01_21
+  - first:
+      213: 5435236321847058283
+    second: BuddyCopter01_22
+  - first:
+      213: -3903364208156787592
+    second: BuddyCopter01_23
+  - first:
+      213: -962241899617706637
+    second: BuddyCopter01_24
+  - first:
+      213: -5868048625411741593
+    second: BuddyCopter01_25
+  - first:
+      213: -2567943576567022329
+    second: BuddyCopter01_26
+  - first:
+      213: 584568614141979770
+    second: BuddyCopter01_27
+  - first:
+      213: 3855928379361029315
+    second: BuddyCopter01_28
+  - first:
+      213: 7136472320918581947
+    second: BuddyCopter01_29
+  - first:
+      213: -1964397908780389152
+    second: BuddyCopter01_30
+  - first:
+      213: 1133282316560220259
+    second: BuddyCopter01_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyCopter01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e657e8621fe876e10800000000000000
+      internalID: 2190876910124168558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 868
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec486ae07cb7ef890800000000000000
+      internalID: -7422359040985496370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 868
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e960cddc409bae0800000000000000
+      internalID: -1533188915936715255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 868
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c4c4fcb07b54330800000000000000
+      internalID: 3694560330677767288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 868
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e837ebbb156bdbc90800000000000000
+      internalID: -7152360171036052594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 868
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7286f3a712ceb050800000000000000
+      internalID: 5818301175400137340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b11b2c027d9c03e0800000000000000
+      internalID: -2086119414223400528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 712
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c2b47306daedd50800000000000000
+      internalID: 6764034319113202717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 712
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b587916c585cb360800000000000000
+      internalID: 7186716259174024632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 712
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e434e6c61484fcd0800000000000000
+      internalID: -2525248257687014168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 712
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ece02a3f7e43e790800000000000000
+      internalID: -7502066245926064928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_11
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 712
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2764213d48b335e00800000000000000
+      internalID: 1032234181260887666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190af37e1a3a94d40800000000000000
+      internalID: 5569162329985097873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 556
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5092978c054868c0800000000000000
+      internalID: -4005875948429602726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 556
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd21f9938c4cc1b0800000000000000
+      internalID: -5635044905640186379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 556
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298da6b5b10814d10800000000000000
+      internalID: 2108106955572304018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_16
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 556
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227977d7d48e5fdd0800000000000000
+      internalID: -2452799002518251742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_17
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 556
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fc42ee037a84ee0800000000000000
+      internalID: -1276586665763876990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d827c46aa2a782b30800000000000000
+      internalID: 4262791370903417485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 400
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd301f867218e9130800000000000000
+      internalID: 3575437160443085788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 400
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd107e89d73f8c60800000000000000
+      internalID: 7822532485302984144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 400
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2fd6838a99c6340800000000000000
+      internalID: 4858427045806207742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_22
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 400
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f9ef933a6dd6b40800000000000000
+      internalID: 5435236321847058283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_23
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 400
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c37dffee674d9c0800000000000000
+      internalID: -3903364208156787592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d1a49271e65a2f0800000000000000
+      internalID: -962241899617706637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 244
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7682d9d8dd0809ea0800000000000000
+      internalID: -5868048625411741593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_26
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 244
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70df9733ce4dc5cd0800000000000000
+      internalID: -2567943576567022329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_27
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 244
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c66c0be0ecc1800800000000000000
+      internalID: 584568614141979770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_28
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 244
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc69237e62038530800000000000000
+      internalID: 3855928379361029315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_29
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 244
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb272c5e3c7d90360800000000000000
+      internalID: 7136472320918581947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecef91828e0db4e0800000000000000
+      internalID: -1964397908780389152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCopter01_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 88
+        width: 155
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360cdc4334a3abf00800000000000000
+      internalID: 1133282316560220259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

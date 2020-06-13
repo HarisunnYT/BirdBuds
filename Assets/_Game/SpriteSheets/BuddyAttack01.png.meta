@@ -1,0 +1,821 @@
+fileFormatVersion: 2
+guid: c4940e344a48f0f4d84f132af6aad72c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 126282134864690850
+    second: BuddyAttack01_0
+  - first:
+      213: 1247462278364674447
+    second: BuddyAttack01_1
+  - first:
+      213: -3376904343831062323
+    second: BuddyAttack01_2
+  - first:
+      213: -215986620801845821
+    second: BuddyAttack01_3
+  - first:
+      213: 308487118517733991
+    second: BuddyAttack01_4
+  - first:
+      213: -1211819594427132075
+    second: BuddyAttack01_5
+  - first:
+      213: 70350831526890198
+    second: BuddyAttack01_6
+  - first:
+      213: -4947263602422832635
+    second: BuddyAttack01_7
+  - first:
+      213: 8327634142412823884
+    second: BuddyAttack01_8
+  - first:
+      213: 6025498631434562417
+    second: BuddyAttack01_9
+  - first:
+      213: -6640343499717620857
+    second: BuddyAttack01_10
+  - first:
+      213: -3488706329906409491
+    second: BuddyAttack01_11
+  - first:
+      213: -1721750464512317085
+    second: BuddyAttack01_12
+  - first:
+      213: 1883386975639717824
+    second: BuddyAttack01_13
+  - first:
+      213: 2570042702150583139
+    second: BuddyAttack01_14
+  - first:
+      213: 5802904318199869733
+    second: BuddyAttack01_15
+  - first:
+      213: -8561896272653917766
+    second: BuddyAttack01_16
+  - first:
+      213: 8072423982917728757
+    second: BuddyAttack01_17
+  - first:
+      213: -1701314909776235342
+    second: BuddyAttack01_18
+  - first:
+      213: 6527165293111737500
+    second: BuddyAttack01_19
+  - first:
+      213: -7801785689047409016
+    second: BuddyAttack01_20
+  - first:
+      213: -3249919694038578080
+    second: BuddyAttack01_21
+  - first:
+      213: -2796216616945261629
+    second: BuddyAttack01_22
+  - first:
+      213: 3408705698552893550
+    second: BuddyAttack01_23
+  - first:
+      213: 6087522566076229954
+    second: BuddyAttack01_24
+  - first:
+      213: 8234480158760037844
+    second: BuddyAttack01_25
+  - first:
+      213: -3577809190804511300
+    second: BuddyAttack01_26
+  - first:
+      213: -3981838001051901204
+    second: BuddyAttack01_27
+  - first:
+      213: 7557311346013969757
+    second: BuddyAttack01_28
+  - first:
+      213: 1410868216325695512
+    second: BuddyAttack01_29
+  - first:
+      213: 438436251121930987
+    second: BuddyAttack01_30
+  - first:
+      213: 6111956385169788228
+    second: BuddyAttack01_0
+  - first:
+      213: 2285626377657275042
+    second: BuddyAttack01_1
+  - first:
+      213: 768659459901082465
+    second: BuddyAttack01_2
+  - first:
+      213: 8016316725488230882
+    second: BuddyAttack01_3
+  - first:
+      213: -1109742276545988107
+    second: BuddyAttack01_4
+  - first:
+      213: 496492562106419921
+    second: BuddyAttack01_5
+  - first:
+      213: -2605632688976298293
+    second: BuddyAttack01_6
+  - first:
+      213: 5510608331109089232
+    second: BuddyAttack01_7
+  - first:
+      213: -8466749938795453900
+    second: BuddyAttack01_8
+  - first:
+      213: -5763035681338713500
+    second: BuddyAttack01_9
+  - first:
+      213: 1491685170870468582
+    second: BuddyAttack01_10
+  - first:
+      213: -2316480135604396756
+    second: BuddyAttack01_11
+  - first:
+      213: -1309498705344403532
+    second: BuddyAttack01_12
+  - first:
+      213: -7674919496351043001
+    second: BuddyAttack01_13
+  - first:
+      213: -1476106019214626752
+    second: BuddyAttack01_14
+  - first:
+      213: -5713934882302918316
+    second: BuddyAttack01_15
+  - first:
+      213: -8928800336803332373
+    second: BuddyAttack01_16
+  - first:
+      213: 2843688907936444910
+    second: BuddyAttack01_17
+  - first:
+      213: 7635035883484924036
+    second: BuddyAttack01_18
+  - first:
+      213: 9191645835717024292
+    second: BuddyAttack01_19
+  - first:
+      213: 8208526140001163823
+    second: BuddyAttack01_20
+  - first:
+      213: 2858761956592597744
+    second: BuddyAttack01_21
+  - first:
+      213: -6033135804709347584
+    second: BuddyAttack01_22
+  - first:
+      213: 6293922181312080367
+    second: BuddyAttack01_23
+  - first:
+      213: 2403829016863201918
+    second: BuddyAttack01_24
+  - first:
+      213: 2140652520325771120
+    second: BuddyAttack01_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyAttack01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 867
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dc9b423f702d450800000000000000
+      internalID: 6111956385169788228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 867
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25689a41d28bf10800000000000000
+      internalID: 2285626377657275042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 867
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bc5acc4b3daaa00800000000000000
+      internalID: 768659459901082465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 867
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1afbde69daf3f60800000000000000
+      internalID: 8016316725488230882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_4
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 867
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f93e3677476990f0800000000000000
+      internalID: -1109742276545988107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da0afdca55e3e600800000000000000
+      internalID: 496492562106419921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 710
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcefb66efdee6dbd0800000000000000
+      internalID: -2605632688976298293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_7
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 710
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfb018a41d997c40800000000000000
+      internalID: 5510608331109089232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 710
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43269081acf008a80800000000000000
+      internalID: -8466749938795453900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_9
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 710
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a97e9e4959500b0800000000000000
+      internalID: -5763035681338713500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efb37672c783b410800000000000000
+      internalID: 1491685170870468582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 553
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d1d0407953adfd0800000000000000
+      internalID: -2316480135604396756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_12
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 553
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7ec129dd9b3dde0800000000000000
+      internalID: -1309498705344403532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_13
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 553
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742b64ca1653d7590800000000000000
+      internalID: -7674919496351043001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_14
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 553
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04075e17561d38be0800000000000000
+      internalID: -1476106019214626752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4510f9e8f7604b0b0800000000000000
+      internalID: -5713934882302918316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 396
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef2768667861480800000000000000
+      internalID: -8928800336803332373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_17
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 396
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee13549ceffc67720800000000000000
+      internalID: 2843688907936444910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_18
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 396
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488ca721fa815f960800000000000000
+      internalID: 7635035883484924036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_19
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 396
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a9c1b20394f8f70800000000000000
+      internalID: 9191645835717024292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a1740a80b8ae170800000000000000
+      internalID: 8208526140001163823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 239
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa3a186adc5ca720800000000000000
+      internalID: 2858761956592597744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_22
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 239
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fdb9653fef54ca0800000000000000
+      internalID: -6033135804709347584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_23
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 239
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9ee0590e0885750800000000000000
+      internalID: 6293922181312080367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_24
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 239
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a58ea31cd1c5120800000000000000
+      internalID: 2403829016863201918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyAttack01_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 344
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fef85202025bd10800000000000000
+      internalID: 2140652520325771120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

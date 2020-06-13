@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 21d2723669bcc1d47bce75a9955ab604
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8495556678455091421
+    second: BuddyRun01_0
+  - first:
+      213: 8145303047478959295
+    second: BuddyRun01_1
+  - first:
+      213: -6688209259208911716
+    second: BuddyRun01_2
+  - first:
+      213: 9043389270045407220
+    second: BuddyRun01_3
+  - first:
+      213: -1649935484510552724
+    second: BuddyRun01_4
+  - first:
+      213: -1213831151606185687
+    second: BuddyRun01_5
+  - first:
+      213: -6844539420447091239
+    second: BuddyRun01_6
+  - first:
+      213: -1539309461225144958
+    second: BuddyRun01_7
+  - first:
+      213: 5024728171625100941
+    second: BuddyRun01_8
+  - first:
+      213: -4739335762138326397
+    second: BuddyRun01_9
+  - first:
+      213: -4821991152998653515
+    second: BuddyRun01_10
+  - first:
+      213: -6971701481145263248
+    second: BuddyRun01_11
+  - first:
+      213: 6397969247820785110
+    second: BuddyRun01_12
+  - first:
+      213: 1892907157119167803
+    second: BuddyRun01_13
+  - first:
+      213: -1244025266036299256
+    second: BuddyRun01_14
+  - first:
+      213: -3567267841038576673
+    second: BuddyRun01_15
+  - first:
+      213: 2117541573392396692
+    second: BuddyRun01_16
+  - first:
+      213: 8919773778330637906
+    second: BuddyRun01_17
+  - first:
+      213: -6431156603236497828
+    second: BuddyRun01_18
+  - first:
+      213: -8809640568580674425
+    second: BuddyRun01_19
+  - first:
+      213: 5977297588717323841
+    second: BuddyRun01_20
+  - first:
+      213: -1972600125265383392
+    second: BuddyRun01_0
+  - first:
+      213: 1166536741876104739
+    second: BuddyRun01_1
+  - first:
+      213: 4863077239392088078
+    second: BuddyRun01_2
+  - first:
+      213: -2718088569249499274
+    second: BuddyRun01_3
+  - first:
+      213: -1058027011625819564
+    second: BuddyRun01_4
+  - first:
+      213: -4673449631321014723
+    second: BuddyRun01_5
+  - first:
+      213: 4739714873541285482
+    second: BuddyRun01_6
+  - first:
+      213: 5340820168665253819
+    second: BuddyRun01_7
+  - first:
+      213: -7609958350308447899
+    second: BuddyRun01_8
+  - first:
+      213: 5876638299663676023
+    second: BuddyRun01_9
+  - first:
+      213: 1263388364850767514
+    second: BuddyRun01_10
+  - first:
+      213: 1908878160790605831
+    second: BuddyRun01_11
+  - first:
+      213: -6611070971840280625
+    second: BuddyRun01_12
+  - first:
+      213: 8977814892506855762
+    second: BuddyRun01_13
+  - first:
+      213: 2350969828374796190
+    second: BuddyRun01_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyRun01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0207aa923aaef94e0800000000000000
+      internalID: -1972600125265383392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 370
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e77f47cfe503010800000000000000
+      internalID: 1166536741876104739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 370
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00b049cbfe1d7340800000000000000
+      internalID: 4863077239392088078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 370
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67775d9e8d8674ad0800000000000000
+      internalID: -2718088569249499274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 370
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4526641e9022151f0800000000000000
+      internalID: -1058027011625819564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 370
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e3e614252942fb0800000000000000
+      internalID: -4673449631321014723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 370
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66501eb099d6c140800000000000000
+      internalID: 4739714873541285482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7c88285a76e1a40800000000000000
+      internalID: 5340820168665253819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 228
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569e85e133ff36690800000000000000
+      internalID: -7609958350308447899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 228
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772b8e4d5630e8150800000000000000
+      internalID: 5876638299663676023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 228
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96aa4c2605788110800000000000000
+      internalID: 1263388364850767514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 228
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700dc65d292bd7a10800000000000000
+      internalID: 1908878160790605831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_12
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 228
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc740926af1c044a0800000000000000
+      internalID: -6611070971840280625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 228
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2593517041b979c70800000000000000
+      internalID: 8977814892506855762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyRun01_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 135
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97d0f95a9250a020800000000000000
+      internalID: 2350969828374796190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

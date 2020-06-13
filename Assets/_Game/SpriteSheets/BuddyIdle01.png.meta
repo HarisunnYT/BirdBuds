@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: b7f9a58f3163b8f45a93371051d988dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7691405084523401092
+    second: BuddyIdle01_0
+  - first:
+      213: -195428612474109071
+    second: BuddyIdle01_1
+  - first:
+      213: -4158421476651920789
+    second: BuddyIdle01_2
+  - first:
+      213: -7087225257067302240
+    second: BuddyIdle01_3
+  - first:
+      213: -5154364196311325332
+    second: BuddyIdle01_4
+  - first:
+      213: 3795747049338326577
+    second: BuddyIdle01_5
+  - first:
+      213: -4811797733439577070
+    second: BuddyIdle01_6
+  - first:
+      213: -7245933144104771105
+    second: BuddyIdle01_7
+  - first:
+      213: -2649769490422236042
+    second: BuddyIdle01_8
+  - first:
+      213: 7700147221864298026
+    second: BuddyIdle01_9
+  - first:
+      213: -3590909013347024633
+    second: BuddyIdle01_10
+  - first:
+      213: -5719261508480870989
+    second: BuddyIdle01_11
+  - first:
+      213: 8194781039712842420
+    second: BuddyIdle01_12
+  - first:
+      213: -1397896302039478209
+    second: BuddyIdle01_13
+  - first:
+      213: 129152239108785638
+    second: BuddyIdle01_14
+  - first:
+      213: 351883091370615499
+    second: BuddyIdle01_15
+  - first:
+      213: 151246849465216189
+    second: BuddyIdle01_16
+  - first:
+      213: 6819447726287542017
+    second: BuddyIdle01_17
+  - first:
+      213: -3727052435046857872
+    second: BuddyIdle01_18
+  - first:
+      213: 1095993286698969777
+    second: BuddyIdle01_19
+  - first:
+      213: 415952194319439972
+    second: BuddyIdle01_20
+  - first:
+      213: 7068538750547714093
+    second: BuddyIdle01_21
+  - first:
+      213: -4399993029534448642
+    second: BuddyIdle01_22
+  - first:
+      213: 5734261639613106287
+    second: BuddyIdle01_0
+  - first:
+      213: -7298637139973182116
+    second: BuddyIdle01_1
+  - first:
+      213: 8307633555356985990
+    second: BuddyIdle01_2
+  - first:
+      213: -2042249317092993561
+    second: BuddyIdle01_3
+  - first:
+      213: 1668246798778238869
+    second: BuddyIdle01_4
+  - first:
+      213: -66968206244642551
+    second: BuddyIdle01_5
+  - first:
+      213: 8031382458419075877
+    second: BuddyIdle01_6
+  - first:
+      213: -5314861213933399108
+    second: BuddyIdle01_7
+  - first:
+      213: 7533858606982646693
+    second: BuddyIdle01_8
+  - first:
+      213: -6244997304690180511
+    second: BuddyIdle01_9
+  - first:
+      213: -1295772403716797987
+    second: BuddyIdle01_10
+  - first:
+      213: 1681830963290454394
+    second: BuddyIdle01_11
+  - first:
+      213: -2337894227493440813
+    second: BuddyIdle01_12
+  - first:
+      213: 9151395575283515737
+    second: BuddyIdle01_13
+  - first:
+      213: 7372846810323991538
+    second: BuddyIdle01_14
+  - first:
+      213: 8970085240313304934
+    second: BuddyIdle01_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyIdle01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c94e6490349f40800000000000000
+      internalID: 5734261639613106287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 385
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dec67e03806ba90800000000000000
+      internalID: -7298637139973182116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 385
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a2b2fe3b4aa4370800000000000000
+      internalID: 8307633555356985990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 385
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e553eff01978a3e0800000000000000
+      internalID: -2042249317092993561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 385
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5970cdeef9dc62710800000000000000
+      internalID: 1668246798778238869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 385
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9010b8f65c4121ff0800000000000000
+      internalID: -66968206244642551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 385
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b5f593bc3357f60800000000000000
+      internalID: 8031382458419075877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb39ff0a2e1dd36b0800000000000000
+      internalID: -5314861213933399108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 258
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab4839ac74ad8860800000000000000
+      internalID: 7533858606982646693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 258
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e7baee9005559a0800000000000000
+      internalID: -6244997304690180511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 258
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9c4b63ddd740ee0800000000000000
+      internalID: -1295772403716797987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 258
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a793e23b950175710800000000000000
+      internalID: 1681830963290454394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 258
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d231d736912e8fd0800000000000000
+      internalID: -2337894227493440813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_13
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 258
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9510bdf1ac9400f70800000000000000
+      internalID: 9151395575283515737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbbbb86c1d915660800000000000000
+      internalID: 7372846810323991538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyIdle01_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 131
+        width: 144
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66759d120052c7c70800000000000000
+      internalID: 8970085240313304934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
