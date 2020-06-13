@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   data:
   - keyName: attacking_button_reset_delay
-    value: 0.1
+    value: 0.2
   - keyName: flip_scale_damper
     value: 0.1

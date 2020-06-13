@@ -25,6 +25,11 @@ public class BaseMovement
     {
         if (movementData.GetValue(DataKeys.JumpRequiresGrounded) == 0 || player.Grounded)
         {
+            if (movementData.GetValue(DataKeys.ResetVerticalVelocityOnJump) == 1)
+            {
+                rigidbody.velocity = new Vector2(rigidbody.velocity.x, 0);
+            }
+
             animator.SetTrigger("Jump");
             rigidbody.AddForce(new Vector2(0, movementData.GetValue(DataKeys.JumpForce)));
         }

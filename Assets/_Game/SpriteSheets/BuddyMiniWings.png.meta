@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: a6b327103b09bc646bb0aca096fda18a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4443687174838675181
+    second: BuddyMiniWings_0
+  - first:
+      213: 6336048155557975528
+    second: BuddyMiniWings_1
+  - first:
+      213: 37356856090191295
+    second: BuddyMiniWings_2
+  - first:
+      213: -7021211266342708441
+    second: BuddyMiniWings_3
+  - first:
+      213: -111695813805864012
+    second: BuddyMiniWings_4
+  - first:
+      213: 219719796859908097
+    second: BuddyMiniWings_5
+  - first:
+      213: -2465133924814492582
+    second: BuddyMiniWings_6
+  - first:
+      213: -2009093775522374335
+    second: BuddyMiniWings_7
+  - first:
+      213: -296414279164152912
+    second: BuddyMiniWings_8
+  - first:
+      213: -5690682067412283793
+    second: BuddyMiniWings_9
+  - first:
+      213: -620027158467993167
+    second: BuddyMiniWings_10
+  - first:
+      213: 1411869686237456966
+    second: BuddyMiniWings_11
+  - first:
+      213: 3177793438333585154
+    second: BuddyMiniWings_12
+  - first:
+      213: -2042583546296064435
+    second: BuddyMiniWings_13
+  - first:
+      213: -707669413756396700
+    second: BuddyMiniWings_14
+  - first:
+      213: -295904373716520345
+    second: BuddyMiniWings_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyMiniWings_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 137
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e73d11f52bad30800000000000000
+      internalID: 4443687174838675181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMiniWings_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 396
+        width: 135
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55dc74a3a2ee750800000000000000
+      internalID: 6336048155557975528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMiniWings_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 394
+        width: 137
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb56e29dcd7b48000800000000000000
+      internalID: 37356856090191295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMiniWings_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 137
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b1ca0ad85af8e90800000000000000
+      internalID: -7021211266342708441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMiniWings_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 235
+        width: 137
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb0437cf3d237ef0800000000000000
+      internalID: -111695813805864012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMiniWings_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 215
+        width: 137
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100b4f9bdf99c0300800000000000000
+      internalID: 219719796859908097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMiniWings_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 137
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ceaa791c51acdd0800000000000000
+      internalID: -2465133924814492582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMiniWings_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 137
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d5a851bd34e14e0800000000000000
+      internalID: -2009093775522374335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMiniWings_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 59
+        width: 137
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3311898cce2ebf0800000000000000
+      internalID: -296414279164152912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

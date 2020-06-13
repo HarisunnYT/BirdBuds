@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 026fa41ac977bf941b187780bf7a0cc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1399681903162037959
+    second: BuddyMidWingsAttack01_0
+  - first:
+      213: -4725222748739693434
+    second: BuddyMidWingsAttack01_1
+  - first:
+      213: -3992873419164556467
+    second: BuddyMidWingsAttack01_2
+  - first:
+      213: 346667391146487278
+    second: BuddyMidWingsAttack01_3
+  - first:
+      213: -5954118341123189103
+    second: BuddyMidWingsAttack01_4
+  - first:
+      213: -6937594738444504463
+    second: BuddyMidWingsAttack01_5
+  - first:
+      213: 8133145317781992424
+    second: BuddyMidWingsAttack01_6
+  - first:
+      213: -6267207565167533641
+    second: BuddyMidWingsAttack01_7
+  - first:
+      213: -4621912169539009520
+    second: BuddyMidWingsAttack01_8
+  - first:
+      213: -3470791885882157289
+    second: BuddyMidWingsAttack01_9
+  - first:
+      213: 2746524929830779068
+    second: BuddyMidWingsAttack01_10
+  - first:
+      213: -7188441329946456277
+    second: BuddyMidWingsAttack01_11
+  - first:
+      213: 4045632595798990752
+    second: BuddyMidWingsAttack01_12
+  - first:
+      213: 1002186482637921289
+    second: BuddyMidWingsAttack01_13
+  - first:
+      213: -8372329888057841136
+    second: BuddyMidWingsAttack01_14
+  - first:
+      213: 6425803325029561111
+    second: BuddyMidWingsAttack01_15
+  - first:
+      213: -6460127259510665281
+    second: BuddyMidWingsAttack01_16
+  - first:
+      213: -4599432788358699805
+    second: BuddyMidWingsAttack01_17
+  - first:
+      213: -5927375337009619530
+    second: BuddyMidWingsAttack01_18
+  - first:
+      213: 826864686696658870
+    second: BuddyMidWingsAttack01_19
+  - first:
+      213: 3934817374279738684
+    second: BuddyMidWingsAttack01_20
+  - first:
+      213: -7753000814426251156
+    second: BuddyMidWingsAttack01_21
+  - first:
+      213: -1279622780731033633
+    second: BuddyMidWingsAttack01_22
+  - first:
+      213: -8162254328390219010
+    second: BuddyMidWingsAttack01_23
+  - first:
+      213: -7919935964292809665
+    second: BuddyMidWingsAttack01_24
+  - first:
+      213: -7754728699071881824
+    second: BuddyMidWingsAttack01_25
+  - first:
+      213: -1436801128530336749
+    second: BuddyMidWingsAttack01_26
+  - first:
+      213: -4324741915005578704
+    second: BuddyMidWingsAttack01_27
+  - first:
+      213: -3761524327849372973
+    second: BuddyMidWingsAttack01_28
+  - first:
+      213: 8794991352758987092
+    second: BuddyMidWingsAttack01_29
+  - first:
+      213: 7752123807942786133
+    second: BuddyMidWingsAttack01_30
+  - first:
+      213: 4699983112864952161
+    second: BuddyMidWingsAttack01_31
+  - first:
+      213: 7237991339548039050
+    second: BuddyMidWingsAttack01_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1861
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939eb7399b4539ce0800000000000000
+      internalID: -1399681903162037959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1861
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68496c002f2ac6eb0800000000000000
+      internalID: -4725222748739693434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1861
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43e899c7c67698c0800000000000000
+      internalID: -3992873419164556467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1861
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed6f70d72c9fc400800000000000000
+      internalID: 346667391146487278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1861
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d6be3ae8be5da0800000000000000
+      internalID: -5954118341123189103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1674
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1727563a756b8bf90800000000000000
+      internalID: -6937594738444504463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1674
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3f605439cbed070800000000000000
+      internalID: 8133145317781992424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1674
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b16c80bce76609a0800000000000000
+      internalID: -6267207565167533641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_8
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1674
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0148297ae5babdfb0800000000000000
+      internalID: -4621912169539009520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1676
+        width: 350
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7179fa83b2545dfc0800000000000000
+      internalID: -3470791885882157289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1487
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb871593fdd9d1620800000000000000
+      internalID: 2746524929830779068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1487
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f0ec742b68d3c90800000000000000
+      internalID: -7188441329946456277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1487
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af17544969f42830800000000000000
+      internalID: 4045632595798990752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1487
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cd450db4b78ed00800000000000000
+      internalID: 1002186482637921289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1487
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a2de743528fcb80800000000000000
+      internalID: -8372329888057841136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71339e8241a0d2950800000000000000
+      internalID: 6425803325029561111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1300
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf8c051c740956a0800000000000000
+      internalID: -6460127259510665281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1300
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e468917f388b20c0800000000000000
+      internalID: -4599432788358699805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_18
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1300
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd512b198bbdbda0800000000000000
+      internalID: -5927375337009619530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_19
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1300
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b77ed73d0d997b00800000000000000
+      internalID: 826864686696658870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1113
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35aaf9ed874b9630800000000000000
+      internalID: 3934817374279738684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1113
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c602fc026dec76490800000000000000
+      internalID: -7753000814426251156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1113
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd777045cdddd3ee0800000000000000
+      internalID: -1279622780731033633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_23
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1113
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa08ed0fe8d9be80800000000000000
+      internalID: -8162254328390219010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_24
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1113
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c7c7cb33cb61290800000000000000
+      internalID: -7919935964292809665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 926
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad1b42a55ba16490800000000000000
+      internalID: -7754728699071881824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 926
+        width: 350
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314a1117cf47f0ce0800000000000000
+      internalID: -1436801128530336749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyMidWingsAttack01_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 928
+        width: 350
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03299da442e6bf3c0800000000000000
+      internalID: -4324741915005578704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

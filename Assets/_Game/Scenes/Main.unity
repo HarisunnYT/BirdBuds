@@ -221,8 +221,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 169328484}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.21, y: -4.9, z: -0.30227292}
-  m_LocalScale: {x: 19.51252, y: 3.327, z: 1}
+  m_LocalPosition: {x: -3.21, y: -4.9, z: -0.30227292}
+  m_LocalScale: {x: 71.81846, y: 3.327, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -495,7 +495,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 126282134864690850, guid: c4940e344a48f0f4d84f132af6aad72c, type: 3}
+  m_Sprite: {fileID: -7691405084523401092, guid: b7f9a58f3163b8f45a93371051d988dc,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -569,9 +570,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 981debc95cff84740a01164c440e5c58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  transformType: 4
   movementTypeDataItems:
   - MovementType: 0
     MovementData: {fileID: 11400000, guid: dedadc2b79a104644bacc0e976137ff6, type: 2}
   - MovementType: 1
     MovementData: {fileID: 11400000, guid: 859b09d8d99829b42b33a1206004bc24, type: 2}
+  - MovementType: 2
+    MovementData: {fileID: 11400000, guid: 5d4bffd14f4330a4f8a9c95100de73a5, type: 2}
+  - MovementType: 3
+    MovementData: {fileID: 11400000, guid: 33bd99460948f1a4ea395c73a9e55305, type: 2}
+  - MovementType: 4
+    MovementData: {fileID: 11400000, guid: d61de3116610a0647819a0c851be4756, type: 2}
   technicalData: {fileID: 11400000, guid: 1de75a3608ce0594b9ef10b116afecf7, type: 2}

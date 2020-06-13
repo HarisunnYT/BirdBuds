@@ -13,9 +13,11 @@ public class DataKeys
     public const string LinearDrag = "linear_drag";
     public const string JumpForce = "jump_force";
     public const string JumpRequiresGrounded = "jump_requires_grounded";
+    public const string TimeBetweenJump = "time_between_jump";
+    public const string ResetVerticalVelocityOnJump = "reset_vertical_velocity_on_jump";
 
     //combat keys -------------------------------------------------------------------------------------- \\\\\\\\\\\\\\\\\\\\\\
-    public const string AttackSpeedDamper = "attack_Speed_Damper";
+    public const string AttackSpeedDamper = "attack_speed_damper";
 
     //technical keys -------------------------------------------------------------------------------------- \\\\\\\\\\\\\\\\\\\
     public const string AttackingButtonResetDelay = "attacking_button_reset_delay";

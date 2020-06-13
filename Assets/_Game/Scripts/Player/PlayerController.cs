@@ -7,7 +7,10 @@ public class PlayerController : MonoBehaviour
     public enum MovementType
     {
         Normal,
-        Copter
+        Copter,
+        Cloth,
+        WingsMini,
+        WingsMid
     }
 
     [System.Serializable]
@@ -16,6 +19,11 @@ public class PlayerController : MonoBehaviour
         public MovementType MovementType;
         public CharacterData MovementData;
     }
+
+    [Header("DEBUG TRANSFORM TYPE")]
+    [SerializeField]
+    private MovementType transformType;
+    [Space()]
 
     [SerializeField]
     private MovementTypeData[] movementTypeDataItems;
@@ -43,6 +51,8 @@ public class PlayerController : MonoBehaviour
 
     private bool attacking = false;
     private float attackButtonTimer = 0;
+
+    private float timeBetweenJumpTimer = 0;
 
     private LayerMask invertedPlayerMask;
 
@@ -74,14 +84,15 @@ public class PlayerController : MonoBehaviour
             previousScaleSwappedTimer = Time.time + technicalData.GetValue(DataKeys.FlipScaleDamper);
         }
 
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump") && Time.time > timeBetweenJumpTimer)
         {
             baseMovement.Jump();
+            timeBetweenJumpTimer = Time.time + CurrentMovementData.GetValue(DataKeys.TimeBetweenJump);
         }
 
         if (Input.GetButtonDown("Transform"))
         {
-            SetMovementType(CurrentMovementType == MovementType.Normal ? MovementType.Copter : MovementType.Normal);
+            SetMovementType(CurrentMovementType == MovementType.Normal ? transformType : MovementType.Normal);
         }
 
         //attacking
@@ -140,9 +151,6 @@ public class PlayerController : MonoBehaviour
         rigidbody.gravityScale = CurrentMovementData.GetValue(DataKeys.GravityScale);
         rigidbody.drag = CurrentMovementData.GetValue(DataKeys.LinearDrag);
 
-        if (movementType == MovementType.Normal)
-            baseMovement = new NormalMovement().Configure(this, rigidbody, animator);
-        if (movementType == MovementType.Copter)
-            baseMovement = new CopterMovement().Configure(this, rigidbody, animator);
+        baseMovement = new BaseMovement().Configure(this, rigidbody, animator);
     }
 }

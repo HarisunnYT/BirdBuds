@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: c8589f3bed66cb94a990953ffd135043
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4084219421034051871
+    second: BuddyFloatSheet01_0
+  - first:
+      213: 5311357688850014714
+    second: BuddyFloatSheet01_1
+  - first:
+      213: 8098837764663096378
+    second: BuddyFloatSheet01_2
+  - first:
+      213: 9165078365595124609
+    second: BuddyFloatSheet01_3
+  - first:
+      213: 2420650416338441456
+    second: BuddyFloatSheet01_4
+  - first:
+      213: -2745586445688866541
+    second: BuddyFloatSheet01_5
+  - first:
+      213: 4319502465245310865
+    second: BuddyFloatSheet01_6
+  - first:
+      213: -3724635989239376755
+    second: BuddyFloatSheet01_7
+  - first:
+      213: 1170642087950137122
+    second: BuddyFloatSheet01_8
+  - first:
+      213: -247218018388938372
+    second: BuddyFloatSheet01_9
+  - first:
+      213: 4256184352564751731
+    second: BuddyFloatSheet01_10
+  - first:
+      213: -9102715454104177779
+    second: BuddyFloatSheet01_11
+  - first:
+      213: 8545534749737731846
+    second: BuddyFloatSheet01_12
+  - first:
+      213: -729073432852765699
+    second: BuddyFloatSheet01_13
+  - first:
+      213: -3232569475416731242
+    second: BuddyFloatSheet01_14
+  - first:
+      213: 8189649890286371023
+    second: BuddyFloatSheet01_15
+  - first:
+      213: -8201352857804608054
+    second: BuddyFloatSheet01_16
+  - first:
+      213: -7301766526938848789
+    second: BuddyFloatSheet01_17
+  - first:
+      213: -1126017796032151412
+    second: BuddyFloatSheet01_18
+  - first:
+      213: 7366526130718849521
+    second: BuddyFloatSheet01_19
+  - first:
+      213: -3388695394974623786
+    second: BuddyFloatSheet01_20
+  - first:
+      213: 8121513789018679366
+    second: BuddyFloatSheet01_21
+  - first:
+      213: -562259160175677004
+    second: BuddyFloatSheet01_22
+  - first:
+      213: -2270348150508778088
+    second: BuddyFloatSheet01_23
+  - first:
+      213: 8849815000821476552
+    second: BuddyFloatSheet01_24
+  - first:
+      213: 8793599263181213355
+    second: BuddyFloatSheet01_25
+  - first:
+      213: -1199688991228655100
+    second: BuddyFloatSheet01_26
+  - first:
+      213: 4926958859841154245
+    second: BuddyFloatSheet01_27
+  - first:
+      213: 2389462995557165236
+    second: BuddyFloatSheet01_28
+  - first:
+      213: 769898751968946251
+    second: BuddyFloatSheet01_29
+  - first:
+      213: 6030922385716158068
+    second: BuddyFloatSheet01_30
+  - first:
+      213: 1250673331923728934
+    second: BuddyFloatSheet01_31
+  - first:
+      213: 3439650620060503828
+    second: BuddyFloatSheet01_32
+  - first:
+      213: 263856484340838581
+    second: BuddyFloatSheet01_33
+  - first:
+      213: 917590828339760043
+    second: BuddyFloatSheet01_34
+  - first:
+      213: 602101876652618014
+    second: BuddyFloatSheet01_35
+  - first:
+      213: 822249190571149504
+    second: BuddyFloatSheet01_36
+  - first:
+      213: 1703779846461191064
+    second: BuddyFloatSheet01_37
+  - first:
+      213: -6311943099259966779
+    second: BuddyFloatSheet01_38
+  - first:
+      213: -7798274330712998414
+    second: BuddyFloatSheet01_39
+  - first:
+      213: 8422004854032380604
+    second: BuddyFloatSheet01_40
+  - first:
+      213: -7345499031246260844
+    second: BuddyFloatSheet01_41
+  - first:
+      213: 7068676779971061105
+    second: BuddyFloatSheet01_42
+  - first:
+      213: -5388674077645934091
+    second: BuddyFloatSheet01_43
+  - first:
+      213: -3919416627799035914
+    second: BuddyFloatSheet01_44
+  - first:
+      213: -2807618033175201905
+    second: BuddyFloatSheet01_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e683806310f157c0800000000000000
+      internalID: -4084219421034051871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 843
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1e1fe5dabb5b940800000000000000
+      internalID: 5311357688850014714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 843
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a343348990ad46070800000000000000
+      internalID: 8098837764663096378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 843
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1834aeff636e03f70800000000000000
+      internalID: 9165078365595124609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 843
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4114f7ab0e79120800000000000000
+      internalID: 2420650416338441456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_5
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 843
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3197694aca7b5e9d0800000000000000
+      internalID: -2745586445688866541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_6
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 843
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fee5f3b94f1fb30800000000000000
+      internalID: 4319502465245310865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_7
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 843
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8450cf3d4f6f4cc0800000000000000
+      internalID: -3724635989239376755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_8
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 843
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227b363d6c4fe3010800000000000000
+      internalID: 1170642087950137122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_9
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 843
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71f9d7a584b19cf0800000000000000
+      internalID: -247218018388938372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_10
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 843
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37da2315e11011b30800000000000000
+      internalID: 4256184352564751731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 662
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8379a2d588aca180800000000000000
+      internalID: -9102715454104177779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 662
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607cfd52496d79670800000000000000
+      internalID: 8545534749737731846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 662
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3e2ab539fc1e5f0800000000000000
+      internalID: -729073432852765699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 662
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691d302603b9323d0800000000000000
+      internalID: -3232569475416731242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_15
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 662
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc006514f2b77a170800000000000000
+      internalID: 8189649890286371023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_16
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 662
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdebe84701fe2e80800000000000000
+      internalID: -8201352857804608054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 662
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1e8f8b70aeaaa90800000000000000
+      internalID: -7301766526938848789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_18
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 662
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804cb8c7c49f50f0800000000000000
+      internalID: -1126017796032151412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_19
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 662
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f931228c782b3660800000000000000
+      internalID: 7366526130718849521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_20
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 662
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7198a0e7fe8f0d0800000000000000
+      internalID: -3388695394974623786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_21
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 662
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64825e0f2c965b070800000000000000
+      internalID: 8121513789018679366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1f406d5447238f0800000000000000
+      internalID: -562259160175677004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 481
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d857cc26a1e70e0800000000000000
+      internalID: -2270348150508778088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 481
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc23ebdadbd0da70800000000000000
+      internalID: 8849815000821476552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_25
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 481
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae8d0b70f3290a70800000000000000
+      internalID: 8793599263181213355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_26
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 481
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a8edcf739d95fe0800000000000000
+      internalID: -1199688991228655100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_27
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 481
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccabc79af2106440800000000000000
+      internalID: 4926958859841154245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_28
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 481
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8202e3fe3192120800000000000000
+      internalID: 2389462995557165236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_29
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 481
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b482028f5da3faa00800000000000000
+      internalID: 769898751968946251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_30
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 481
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1094e4f322b350800000000000000
+      internalID: 6030922385716158068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyFloatSheet01_31
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 481
+        width: 171
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a3e5fd4c84b5110800000000000000
+      internalID: 1250673331923728934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

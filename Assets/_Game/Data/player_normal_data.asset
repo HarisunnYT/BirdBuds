@@ -15,8 +15,8 @@ MonoBehaviour:
   data:
   - keyName: max_horizontal_speed
     value: 10
-  - keyName: attack_Speed_Damper
-    value: 7000
+  - keyName: attack_speed_damper
+    value: 8000
   - keyName: horizontal_acceleration
     value: 150
   - keyName: gravity_scale
