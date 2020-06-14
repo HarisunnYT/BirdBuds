@@ -33,7 +33,7 @@ public class BaseMovement
         }
     }
 
-    public virtual void Move(float deltaTime) 
+    public virtual void MoveHorizontal(float deltaTime) 
     {
         //move horizontal
         if ((player.InputAxis.x > 0 && rigidbody.velocity.x < player.GetMaxHorizontalSpeed()) ||
@@ -42,8 +42,6 @@ public class BaseMovement
             rigidbody.AddForce(new Vector2(player.InputAxis.x * movementData.GetValue(DataKeys.VariableKeys.HorizontalAcceleration), 0));
         }
 
-        rigidbody.AddForce(new Vector2(0, player.InputAxis.y * movementData.GetValue(DataKeys.VariableKeys.VerticalAcceleration)));
-
         if (movementData.GetValue(DataKeys.VariableKeys.RotateTowardsDirection) == 1)
         {
             Vector2 v = player.InputAxis;
@@ -51,6 +49,11 @@ public class BaseMovement
             player.transform.rotation = Quaternion.Lerp(player.transform.rotation, Quaternion.AngleAxis(angle, new Vector3(0, 0, player.Direction)), 
                                                         movementData.GetValue(DataKeys.VariableKeys.RotationSpeed, 1) * deltaTime);
         }
+    }
+
+    public virtual void MoveVertical(float deltaTime)
+    {
+        rigidbody.AddForce(new Vector2(0, player.InputAxis.y * movementData.GetValue(DataKeys.VariableKeys.VerticalAcceleration)));
     }
 
     public virtual void Attack() { }

@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    #region PLAYER_EXTENSIONS
+
     public enum MovementType
     {
         Normal,
@@ -30,6 +32,10 @@ public class PlayerController : MonoBehaviour
         public CharacterData MovementData;
     }
 
+    #endregion
+
+    #region EXPOSED_VARIABLES
+
     [Header("DEBUG TRANSFORM TYPE")]
     [SerializeField]
     private MovementType transformType;
@@ -49,37 +55,54 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private GameObject transformParticle;
 
+    #endregion
+
+    #region COMPONENTS
+
     public CharacterData CurrentMovementData { get; private set; }
     public MovementType CurrentMovementType { get; private set; } = MovementType.Normal;
+    public Rigidbody2D Rigidbody { get; private set; }
+    public PlayerVariables PlayerVariables { get; private set; }
+
+    private BaseMovement baseMovement;
+
+    private Animator animator;
+    private SpriteRenderer spriteRenderer;
+
+    #endregion
+
+    #region RUNTIME_VARIABLES
 
     public Vector2 InputAxis { get; private set; }
 
     public bool Grounded { get; private set; } = false;
     public bool HoldingJump { get; private set; } = false;
     public int Direction { get; private set; } = 1;
+    public bool HorizontalMovementEnabled { get; private set; } = true;
+    public bool VerticalMovementEnabled { get; private set; } = true;
 
-    private BaseMovement baseMovement;
-
-    private Animator animator;
-    private Rigidbody2D rigidbody;
-    private SpriteRenderer spriteRenderer;
 
     private Vector3 originalScale;
+    private LayerMask invertedPlayerMask;
 
     private float previousScaleSwappedTimer = 0;
-
-    private bool attacking = false;
     private float attackButtonTimer = 0;
-
     private float timeBetweenJumpTimer = 0;
 
-    private LayerMask invertedPlayerMask;
+    private bool attacking = false;
+
+    private Coroutine horizontalMovementCoroutine;
+    private Coroutine verticalMovementCoroutine;
+
+    #endregion
 
     private void Awake()
     {
         animator = GetComponent<Animator>();
-        rigidbody = GetComponent<Rigidbody2D>();
+        Rigidbody = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        PlayerVariables = GetComponent<PlayerVariables>();
+
         originalScale = transform.localScale;
 
         SetMovementType(MovementType.Normal, false);
@@ -153,19 +176,15 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         baseMovement.Update(Time.time);
-        baseMovement.Move(Time.deltaTime);
+
+        if (HorizontalMovementEnabled)
+            baseMovement.MoveHorizontal(Time.deltaTime);
+
+        if (VerticalMovementEnabled)
+            baseMovement.MoveVertical(Time.deltaTime);
     }
 
-    public float GetMaxHorizontalSpeed()
-    {
-        return attacking ? CurrentMovementData.GetValue(DataKeys.VariableKeys.MaxHorizontalSpeed) / CurrentMovementData.GetValue(DataKeys.VariableKeys.AttackSpeedDamper) : 
-                           CurrentMovementData.GetValue(DataKeys.VariableKeys.MaxHorizontalSpeed);
-    }
-
-    public float GetMaxVerticalSpeed()
-    {
-        return CurrentMovementData.GetValue(DataKeys.VariableKeys.MaxVerticalSpeed);
-    }
+    #region MOVEMENT
 
     public void SetMovementType(MovementType movementType, bool displayPuffParticle = true)
     {
@@ -185,16 +204,16 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        rigidbody.gravityScale = CurrentMovementData.GetValue(DataKeys.VariableKeys.GravityScale);
-        rigidbody.drag = CurrentMovementData.GetValue(DataKeys.VariableKeys.LinearDrag);
+        Rigidbody.gravityScale = CurrentMovementData.GetValue(DataKeys.VariableKeys.GravityScale);
+        Rigidbody.drag = CurrentMovementData.GetValue(DataKeys.VariableKeys.LinearDrag);
 
         if (baseMovement != null)
             baseMovement.Deconfigure();
 
         if (CurrentMovementType >= MovementType.WingsMini && CurrentMovementType <= MovementType.WingsBig)
-            baseMovement = new WingsMovement().Configure(this, rigidbody, animator);
+            baseMovement = new WingsMovement().Configure(this, Rigidbody, animator);
         else
-            baseMovement = new BaseMovement().Configure(this, rigidbody, animator);
+            baseMovement = new BaseMovement().Configure(this, Rigidbody, animator);
 
         if (displayPuffParticle)
         {
@@ -202,4 +221,63 @@ public class PlayerController : MonoBehaviour
             particle.transform.position = new Vector3(transform.position.x, transform.position.y + 0.5f, particle.transform.position.z);
         }
     }
+
+    public float GetMaxHorizontalSpeed()
+    {
+        return attacking ? CurrentMovementData.GetValue(DataKeys.VariableKeys.MaxHorizontalSpeed) / CurrentMovementData.GetValue(DataKeys.VariableKeys.AttackSpeedDamper) :
+                           CurrentMovementData.GetValue(DataKeys.VariableKeys.MaxHorizontalSpeed);
+    }
+
+    public float GetMaxVerticalSpeed()
+    {
+        return CurrentMovementData.GetValue(DataKeys.VariableKeys.MaxVerticalSpeed);
+    }
+
+    public void Knockback(Vector3 direction, float force)
+    {
+        DisableHorizontalMovement(0.5f);
+
+        Rigidbody.velocity = new Vector2(0, Rigidbody.velocity.y);
+        Rigidbody.AddForce(direction * force, ForceMode2D.Impulse);
+    }
+
+    #endregion
+
+    #region DISABLE_INPUT
+
+    public void DisableHorizontalMovement(float duration)
+    {
+        if (horizontalMovementCoroutine != null)
+            StopCoroutine(horizontalMovementCoroutine);
+
+        HorizontalMovementEnabled = false;
+        horizontalMovementCoroutine = StartCoroutine(DisableHorizontalMovementCoroutine(duration));
+    }
+
+    private IEnumerator DisableHorizontalMovementCoroutine(float duration)
+    {
+        yield return new WaitForSeconds(duration);
+
+        HorizontalMovementEnabled = true;
+        horizontalMovementCoroutine = null;
+    }
+
+    public void DisableVerticalMovement(float duration)
+    {
+        if (verticalMovementCoroutine != null)
+            StopCoroutine(verticalMovementCoroutine);
+
+        VerticalMovementEnabled = false;
+        verticalMovementCoroutine = StartCoroutine(DisableVerticalMovementCoroutine(duration));
+    }
+
+    private IEnumerator DisableVerticalMovementCoroutine(float duration)
+    {
+        yield return new WaitForSeconds(duration);
+
+        VerticalMovementEnabled = true;
+        verticalMovementCoroutine = null;
+    }
+
+    #endregion
 }
