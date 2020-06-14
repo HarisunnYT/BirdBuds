@@ -15,7 +15,12 @@ public class PlayerController : MonoBehaviour
         WingsBig,
 
         BirdRider,
-        MagicRider
+        MagicRider,
+        CloudRider,
+
+        Balloon,
+        BackPack,
+        Glider
     }
 
     [System.Serializable]
@@ -91,10 +96,10 @@ public class PlayerController : MonoBehaviour
         if (Input.GetButtonDown("Tab"))
         {
             transformType += (int)Input.GetAxisRaw("Tab");
-            if (transformType > MovementType.MagicRider)
+            if (transformType > MovementType.BackPack)
                 transformType = MovementType.Copter;
             else if (transformType < MovementType.Copter)
-                transformType = MovementType.MagicRider;
+                transformType = MovementType.BackPack;
 
             SetMovementType(transformType);
         }

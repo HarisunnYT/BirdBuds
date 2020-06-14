@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: ba667c043932c754d88dbbdc30a501e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2801540496284002240
+    second: BuddyCloudRider01_0
+  - first:
+      213: 4428313669906672579
+    second: BuddyCloudRider01_1
+  - first:
+      213: -5772456911755924097
+    second: BuddyCloudRider01_2
+  - first:
+      213: -2234766618036339384
+    second: BuddyCloudRider01_3
+  - first:
+      213: -7955779856138539210
+    second: BuddyCloudRider01_4
+  - first:
+      213: -4931447803691203062
+    second: BuddyCloudRider01_5
+  - first:
+      213: -6343350047676267387
+    second: BuddyCloudRider01_6
+  - first:
+      213: 465772349541060220
+    second: BuddyCloudRider01_7
+  - first:
+      213: -7084732124707758140
+    second: BuddyCloudRider01_8
+  - first:
+      213: -2561976662445835436
+    second: BuddyCloudRider01_9
+  - first:
+      213: -186309565278906379
+    second: BuddyCloudRider01_10
+  - first:
+      213: 6495386986354261154
+    second: BuddyCloudRider01_11
+  - first:
+      213: 4808894051359088280
+    second: BuddyCloudRider01_12
+  - first:
+      213: 6063508373329307657
+    second: BuddyCloudRider01_13
+  - first:
+      213: 4185389940630727305
+    second: BuddyCloudRider01_14
+  - first:
+      213: 269178968696770509
+    second: BuddyCloudRider01_15
+  - first:
+      213: 6516142452396199598
+    second: BuddyCloudRider01_16
+  - first:
+      213: -7145961986750426781
+    second: BuddyCloudRider01_17
+  - first:
+      213: 8951652777873249367
+    second: BuddyCloudRider01_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyCloudRider01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c721e8fc3211e620800000000000000
+      internalID: 2801540496284002240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 881
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb2bc012d7847d30800000000000000
+      internalID: 4428313669906672579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 881
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d2a85c50d14efa0800000000000000
+      internalID: -5772456911755924097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 881
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dfa08e9938cf0e0800000000000000
+      internalID: -2234766618036339384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_4
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 881
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f67a35f54679190800000000000000
+      internalID: -7955779856138539210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a060b98b95aff8bb0800000000000000
+      internalID: -4931447803691203062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 738
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5848c4a7db4e7f7a0800000000000000
+      internalID: -6343350047676267387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 738
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0890fb71c67600800000000000000
+      internalID: 465772349541060220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_8
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 738
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfdef94ba9fdad90800000000000000
+      internalID: -7084732124707758140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 738
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3318acc7027cd0800000000000000
+      internalID: -2561976662445835436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f71b4fff681a6df0800000000000000
+      internalID: -186309565278906379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 595
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac3750dc00442a50800000000000000
+      internalID: 6495386986354261154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 595
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e5fbd39af9cb240800000000000000
+      internalID: 4808894051359088280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_13
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 595
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90866ec5db8e52450800000000000000
+      internalID: 6063508373329307657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_14
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 595
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa9c1d9fd751a30800000000000000
+      internalID: 4185389940630727305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyCloudRider01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 198
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf4d2a88d05cb300800000000000000
+      internalID: 269178968696770509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

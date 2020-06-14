@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: 8ba00ea1c92d66b4c9e4d9ef20b0f155
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4385866213607715332
+    second: BuddyBalloon01_0
+  - first:
+      213: -4550328258287086440
+    second: BuddyBalloon01_1
+  - first:
+      213: -2079418910875339689
+    second: BuddyBalloon01_2
+  - first:
+      213: -3814792535981785899
+    second: BuddyBalloon01_3
+  - first:
+      213: -4275234258708473548
+    second: BuddyBalloon01_4
+  - first:
+      213: -1034577321775149948
+    second: BuddyBalloon01_5
+  - first:
+      213: -276316687944491624
+    second: BuddyBalloon01_6
+  - first:
+      213: 7977151378107566097
+    second: BuddyBalloon01_7
+  - first:
+      213: -8006322075582393562
+    second: BuddyBalloon01_8
+  - first:
+      213: 6284078951880814576
+    second: BuddyBalloon01_9
+  - first:
+      213: -5786698535244125720
+    second: BuddyBalloon01_10
+  - first:
+      213: -3484013989185363172
+    second: BuddyBalloon01_11
+  - first:
+      213: -5424274336913440108
+    second: BuddyBalloon01_12
+  - first:
+      213: -4083380202512933891
+    second: BuddyBalloon01_13
+  - first:
+      213: 1897742150669599384
+    second: BuddyBalloon01_14
+  - first:
+      213: 5356203220087786938
+    second: BuddyBalloon01_15
+  - first:
+      213: 7905539243691777259
+    second: BuddyBalloon01_16
+  - first:
+      213: 8388791198096393813
+    second: BuddyBalloon01_17
+  - first:
+      213: 2736624618647776015
+    second: BuddyBalloon01_18
+  - first:
+      213: -2616574981520566757
+    second: BuddyBalloon01_19
+  - first:
+      213: -2284748168829309823
+    second: BuddyBalloon01_20
+  - first:
+      213: -2193310697973423580
+    second: BuddyBalloon01_21
+  - first:
+      213: 1068326386138633561
+    second: BuddyBalloon01_22
+  - first:
+      213: -1246823697034074118
+    second: BuddyBalloon01_23
+  - first:
+      213: -7498609392062655525
+    second: BuddyBalloon01_24
+  - first:
+      213: -658130078437548672
+    second: BuddyBalloon01_25
+  - first:
+      213: -4824455029022028114
+    second: BuddyBalloon01_26
+  - first:
+      213: -972438792278684747
+    second: BuddyBalloon01_27
+  - first:
+      213: 5559030158855569071
+    second: BuddyBalloon01_28
+  - first:
+      213: -5040227999276369304
+    second: BuddyBalloon01_29
+  - first:
+      213: 4644819582445122000
+    second: BuddyBalloon01_30
+  - first:
+      213: -6189113745341140003
+    second: BuddyBalloon01_31
+  - first:
+      213: 8306484537110109746
+    second: BuddyBalloon01_0
+  - first:
+      213: 7233384723617068633
+    second: BuddyBalloon01_1
+  - first:
+      213: -1645143559995524548
+    second: BuddyBalloon01_2
+  - first:
+      213: -4399227132268616494
+    second: BuddyBalloon01_3
+  - first:
+      213: -6330475370824626170
+    second: BuddyBalloon01_4
+  - first:
+      213: 6317825925896510845
+    second: BuddyBalloon01_5
+  - first:
+      213: -3069322126188665665
+    second: BuddyBalloon01_6
+  - first:
+      213: 6018608800759987476
+    second: BuddyBalloon01_7
+  - first:
+      213: 1354113653777752000
+    second: BuddyBalloon01_8
+  - first:
+      213: 3149675436050866087
+    second: BuddyBalloon01_9
+  - first:
+      213: 4202978523617153010
+    second: BuddyBalloon01_10
+  - first:
+      213: -3576232357007510884
+    second: BuddyBalloon01_11
+  - first:
+      213: 1182946808476114516
+    second: BuddyBalloon01_12
+  - first:
+      213: 738991260006327559
+    second: BuddyBalloon01_13
+  - first:
+      213: -1129067156339394604
+    second: BuddyBalloon01_14
+  - first:
+      213: 2449390847844614167
+    second: BuddyBalloon01_15
+  - first:
+      213: 6255042851092959148
+    second: BuddyBalloon01_16
+  - first:
+      213: 5632922440267027875
+    second: BuddyBalloon01_17
+  - first:
+      213: -4896570508277981686
+    second: BuddyBalloon01_18
+  - first:
+      213: 1161968181866609455
+    second: BuddyBalloon01_19
+  - first:
+      213: -1902995922484051645
+    second: BuddyBalloon01_20
+  - first:
+      213: -1332247006442665413
+    second: BuddyBalloon01_21
+  - first:
+      213: 4756803673066515001
+    second: BuddyBalloon01_22
+  - first:
+      213: -418053867292621352
+    second: BuddyBalloon01_23
+  - first:
+      213: -2758470491635924882
+    second: BuddyBalloon01_24
+  - first:
+      213: -934260572896896108
+    second: BuddyBalloon01_25
+  - first:
+      213: 7539761474687441234
+    second: BuddyBalloon01_26
+  - first:
+      213: -2523391993640003634
+    second: BuddyBalloon01_27
+  - first:
+      213: 4117857811184147419
+    second: BuddyBalloon01_28
+  - first:
+      213: 5978932568893974816
+    second: BuddyBalloon01_29
+  - first:
+      213: -8332025703368145053
+    second: BuddyBalloon01_30
+  - first:
+      213: -7935154572221841721
+    second: BuddyBalloon01_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyBalloon01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1707
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e19b64daf864370800000000000000
+      internalID: 8306484537110109746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1707
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956beeef415226460800000000000000
+      internalID: 7233384723617068633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1707
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af1f506a64b29e0800000000000000
+      internalID: -1645143559995524548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1707
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d46ed63b3ec2f2c0800000000000000
+      internalID: -4399227132268616494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_4
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1707
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60093a6c032a528a0800000000000000
+      internalID: -6330475370824626170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_5
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1707
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d90d1d43d6da750800000000000000
+      internalID: 6317825925896510845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_6
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1707
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb42747c9c39765d0800000000000000
+      internalID: -3069322126188665665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1366
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41db65bf0d4668350800000000000000
+      internalID: 6018608800759987476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1366
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfdde69137cac210800000000000000
+      internalID: 1354113653777752000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1366
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afd5931f15e5bb20800000000000000
+      internalID: 3149675436050866087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_10
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1366
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffcbcae2baf35a30800000000000000
+      internalID: 4202978523617153010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_11
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1366
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c923f467e9bae5ec0800000000000000
+      internalID: -3576232357007510884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_12
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1366
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e9663dadbaa6010800000000000000
+      internalID: 1182946808476114516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_13
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1366
+        width: 288
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705abc8b2ac614a00800000000000000
+      internalID: 738991260006327559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d774d2476fb450f0800000000000000
+      internalID: -1129067156339394604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_15
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1025
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7100fd9affbfdf120800000000000000
+      internalID: 2449390847844614167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_16
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1025
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf0e3a15506ec650800000000000000
+      internalID: 6255042851092959148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_17
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1025
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5517b6d192c2e40800000000000000
+      internalID: 5632922440267027875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_18
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1025
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0edf6cd013eb0cb0800000000000000
+      internalID: -4896570508277981686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_19
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1025
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b3770b7e3202010800000000000000
+      internalID: 1161968181866609455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_20
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1025
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341425f7a433795e0800000000000000
+      internalID: -1902995922484051645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a48ebf768e28de0800000000000000
+      internalID: -1332247006442665413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 684
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a276fecbf830240800000000000000
+      internalID: 4756803673066515001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_23
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 684
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d58b0ff836c23af0800000000000000
+      internalID: -418053867292621352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_24
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 684
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c4aee3b1f7b9d0800000000000000
+      internalID: -2758470491635924882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_25
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 684
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd3d875f6d803f0800000000000000
+      internalID: -934260572896896108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_26
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 684
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2599be52d1d92a860800000000000000
+      internalID: 7539761474687441234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_27
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 684
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d50ee95c1bfcd0800000000000000
+      internalID: -2523391993640003634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd237acd1952930800000000000000
+      internalID: 4117857811184147419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 343
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02960f06e7f69f250800000000000000
+      internalID: 5978932568893974816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 343
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367415b84c2be5c80800000000000000
+      internalID: -8332025703368145053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBalloon01_31
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 343
+        width: 284
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce76e475faa0e190800000000000000
+      internalID: -7935154572221841721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

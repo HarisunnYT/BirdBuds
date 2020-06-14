@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 17f30da9ff5bcda49893e183c8b8fff7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3687781164335372276
+    second: BuddyBackPack01_0
+  - first:
+      213: -8710444432993909484
+    second: BuddyBackPack01_1
+  - first:
+      213: -797631931210989622
+    second: BuddyBackPack01_2
+  - first:
+      213: -4514786502714636855
+    second: BuddyBackPack01_3
+  - first:
+      213: -7272311685871901884
+    second: BuddyBackPack01_4
+  - first:
+      213: -5014419569351229435
+    second: BuddyBackPack01_5
+  - first:
+      213: 3261136957823840825
+    second: BuddyBackPack01_6
+  - first:
+      213: 5062887494056840410
+    second: BuddyBackPack01_7
+  - first:
+      213: 8187818298952395818
+    second: BuddyBackPack01_8
+  - first:
+      213: -7505110005990817149
+    second: BuddyBackPack01_9
+  - first:
+      213: -8578322643539789094
+    second: BuddyBackPack01_10
+  - first:
+      213: -7183681130244280958
+    second: BuddyBackPack01_11
+  - first:
+      213: 1413362505984805066
+    second: BuddyBackPack01_12
+  - first:
+      213: 1682069686104842766
+    second: BuddyBackPack01_13
+  - first:
+      213: 8506123303593048294
+    second: BuddyBackPack01_14
+  - first:
+      213: -706323002231257008
+    second: BuddyBackPack01_15
+  - first:
+      213: 6209992419789795412
+    second: BuddyBackPack01_16
+  - first:
+      213: -4088778053786104104
+    second: BuddyBackPack01_17
+  - first:
+      213: 6176785746917230527
+    second: BuddyBackPack01_18
+  - first:
+      213: -4653523360483916814
+    second: BuddyBackPack01_19
+  - first:
+      213: 1748147900141518193
+    second: BuddyBackPack01_20
+  - first:
+      213: -6592868375125664812
+    second: BuddyBackPack01_21
+  - first:
+      213: -5201097952166202225
+    second: BuddyBackPack01_22
+  - first:
+      213: -2656681561398137154
+    second: BuddyBackPack01_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyBackPack01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 849
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08e96ad19e52dcc0800000000000000
+      internalID: -3687781164335372276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 849
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4158e9720f84e1780800000000000000
+      internalID: -8710444432993909484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 849
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acff8ae0cfd3ee4f0800000000000000
+      internalID: -797631931210989622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 849
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c547fc98914851c0800000000000000
+      internalID: -4514786502714636855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 849
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443eea35d0f831b90800000000000000
+      internalID: -7272311685871901884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5008d0e18f3396ab0800000000000000
+      internalID: -5014419569351229435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 674
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932fcfee8c2e14d20800000000000000
+      internalID: 3261136957823840825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 674
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc860df95df24640800000000000000
+      internalID: 5062887494056840410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 674
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c208aac59f0a170800000000000000
+      internalID: 8187818298952395818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 674
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38200bc963e78d790800000000000000
+      internalID: -7505110005990817149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adafe1f610da3f880800000000000000
+      internalID: -8578322643539789094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 499
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dec14a2107e4c90800000000000000
+      internalID: -7183681130244280958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 499
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8841cf5b54d9310800000000000000
+      internalID: 1413362505984805066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 499
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e026bbfa779e75710800000000000000
+      internalID: 1682069686104842766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 499
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8f556c312db0670800000000000000
+      internalID: 8506123303593048294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0588153c8f2a236f0800000000000000
+      internalID: -706323002231257008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 324
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450707f24335e2650800000000000000
+      internalID: 6209992419789795412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyBackPack01_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 324
+        width: 174
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de8aaaf50eb147c0800000000000000
+      internalID: -4088778053786104104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

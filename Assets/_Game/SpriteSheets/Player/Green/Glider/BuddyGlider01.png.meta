@@ -1,0 +1,986 @@
+fileFormatVersion: 2
+guid: af5e03b224131174d8f0ac138fa33893
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4834109213856066824
+    second: BuddyGlider01_0
+  - first:
+      213: -2352537292862410752
+    second: BuddyGlider01_1
+  - first:
+      213: -2648481661310922628
+    second: BuddyGlider01_2
+  - first:
+      213: 39458443320594272
+    second: BuddyGlider01_3
+  - first:
+      213: -5500003185327799876
+    second: BuddyGlider01_4
+  - first:
+      213: -2218200230189842529
+    second: BuddyGlider01_5
+  - first:
+      213: -1371942323863524015
+    second: BuddyGlider01_6
+  - first:
+      213: 2836572278815564413
+    second: BuddyGlider01_7
+  - first:
+      213: 2802068331583758257
+    second: BuddyGlider01_8
+  - first:
+      213: -5372867285673664988
+    second: BuddyGlider01_9
+  - first:
+      213: -6120279029139070911
+    second: BuddyGlider01_10
+  - first:
+      213: 1230783428814026970
+    second: BuddyGlider01_11
+  - first:
+      213: -4636004435025110836
+    second: BuddyGlider01_12
+  - first:
+      213: 8920026489091254011
+    second: BuddyGlider01_13
+  - first:
+      213: -6103784075992120554
+    second: BuddyGlider01_14
+  - first:
+      213: 4418007487772790617
+    second: BuddyGlider01_15
+  - first:
+      213: -1478954473288137378
+    second: BuddyGlider01_16
+  - first:
+      213: 2663487561340775669
+    second: BuddyGlider01_17
+  - first:
+      213: 3523423336106378079
+    second: BuddyGlider01_18
+  - first:
+      213: 352533259012104854
+    second: BuddyGlider01_19
+  - first:
+      213: -2994616519599755456
+    second: BuddyGlider01_20
+  - first:
+      213: -8576810624067991619
+    second: BuddyGlider01_21
+  - first:
+      213: 6395539280032785069
+    second: BuddyGlider01_22
+  - first:
+      213: -8424641404166531579
+    second: BuddyGlider01_23
+  - first:
+      213: 7431014665716477509
+    second: BuddyGlider01_24
+  - first:
+      213: -2717093641873543217
+    second: BuddyGlider01_25
+  - first:
+      213: 6071971366281328031
+    second: BuddyGlider01_26
+  - first:
+      213: 7548183129479350716
+    second: BuddyGlider01_27
+  - first:
+      213: 7898037062529235873
+    second: BuddyGlider01_28
+  - first:
+      213: -3632063298808198595
+    second: BuddyGlider01_29
+  - first:
+      213: -7493286294196069859
+    second: BuddyGlider01_30
+  - first:
+      213: -786396664766438125
+    second: BuddyGlider01_31
+  - first:
+      213: 4518528093179007039
+    second: BuddyGlider01_32
+  - first:
+      213: 3298984722616802923
+    second: BuddyGlider01_33
+  - first:
+      213: -7527205098885009393
+    second: BuddyGlider01_34
+  - first:
+      213: 2686681328579311599
+    second: BuddyGlider01_35
+  - first:
+      213: -7311636830072207782
+    second: BuddyGlider01_36
+  - first:
+      213: -4384583953278966244
+    second: BuddyGlider01_37
+  - first:
+      213: 7632191078945631189
+    second: BuddyGlider01_0
+  - first:
+      213: -8763031142890549353
+    second: BuddyGlider01_1
+  - first:
+      213: 4056623594739270412
+    second: BuddyGlider01_2
+  - first:
+      213: -5547711635578901066
+    second: BuddyGlider01_3
+  - first:
+      213: 3687464836000917236
+    second: BuddyGlider01_4
+  - first:
+      213: -7161129265938961169
+    second: BuddyGlider01_5
+  - first:
+      213: 3725588016118436829
+    second: BuddyGlider01_6
+  - first:
+      213: 5769455820742425242
+    second: BuddyGlider01_7
+  - first:
+      213: -6368783051230131866
+    second: BuddyGlider01_8
+  - first:
+      213: -6439959434605477506
+    second: BuddyGlider01_9
+  - first:
+      213: -1582091999803417464
+    second: BuddyGlider01_10
+  - first:
+      213: 3188412545555467306
+    second: BuddyGlider01_11
+  - first:
+      213: -4368296191320678705
+    second: BuddyGlider01_12
+  - first:
+      213: 2179245524142158058
+    second: BuddyGlider01_13
+  - first:
+      213: -1308222193718840719
+    second: BuddyGlider01_14
+  - first:
+      213: 4622117669085939697
+    second: BuddyGlider01_15
+  - first:
+      213: -4448589790006757315
+    second: BuddyGlider01_16
+  - first:
+      213: -7780641334418341296
+    second: BuddyGlider01_17
+  - first:
+      213: -5496696885574427784
+    second: BuddyGlider01_18
+  - first:
+      213: -5110991533353323403
+    second: BuddyGlider01_19
+  - first:
+      213: -5666510077518952927
+    second: BuddyGlider01_20
+  - first:
+      213: -8951077868492486331
+    second: BuddyGlider01_21
+  - first:
+      213: -8124111698066789771
+    second: BuddyGlider01_22
+  - first:
+      213: 6643306039243136341
+    second: BuddyGlider01_23
+  - first:
+      213: -6037068198506610905
+    second: BuddyGlider01_24
+  - first:
+      213: -3266778344072496856
+    second: BuddyGlider01_25
+  - first:
+      213: 3575577742638422660
+    second: BuddyGlider01_26
+  - first:
+      213: 187139387360686633
+    second: BuddyGlider01_27
+  - first:
+      213: -5414594387364831575
+    second: BuddyGlider01_28
+  - first:
+      213: 2193008382618102121
+    second: BuddyGlider01_29
+  - first:
+      213: -3538958655536057888
+    second: BuddyGlider01_30
+  - first:
+      213: -1294130797314237180
+    second: BuddyGlider01_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuddyGlider01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1865
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dba576695dfae960800000000000000
+      internalID: 7632191078945631189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1865
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fc254aa95736680800000000000000
+      internalID: -8763031142890549353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1865
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0307ef9aa50c4830800000000000000
+      internalID: 4056623594739270412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1865
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda40519a19203b0800000000000000
+      internalID: -5547711635578901066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_4
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1865
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f624973bb18c2330800000000000000
+      internalID: 3687464836000917236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_5
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1865
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feced09bfde8e9c90800000000000000
+      internalID: -7161129265938961169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1682
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd31138cf82f3b330800000000000000
+      internalID: 3725588016118436829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1682
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a79a64089311050800000000000000
+      internalID: 5769455820742425242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_8
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1682
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66946e3ee898d97a0800000000000000
+      internalID: -6368783051230131866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_9
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1682
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e714a6cb30ba0a6a0800000000000000
+      internalID: -6439959434605477506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_10
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1682
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cdabd55b74b0ae0800000000000000
+      internalID: -1582091999803417464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_11
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1682
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c8b3731548f3c20800000000000000
+      internalID: 3188412545555467306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1499
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce93aa12c1b063c0800000000000000
+      internalID: -4368296191320678705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1499
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae07ad0124c3e3e10800000000000000
+      internalID: 2179245524142158058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_14
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1499
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1723b1898d248dde0800000000000000
+      internalID: -1308222193718840719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_15
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1499
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f78cefe78f052040800000000000000
+      internalID: 4622117669085939697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_16
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1499
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38b737d72f6342c0800000000000000
+      internalID: -4448589790006757315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_17
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1499
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05206411eeb950490800000000000000
+      internalID: -7780641334418341296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1316
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b17592e4fc7b3b0800000000000000
+      internalID: -5496696885574427784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_19
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1316
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5743274974c1219b0800000000000000
+      internalID: -5110991533353323403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1316
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126cf416b138c51b0800000000000000
+      internalID: -5666510077518952927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_21
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1316
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54905ab7a1267c380800000000000000
+      internalID: -8951077868492486331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_22
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1316
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a2229347b514f80800000000000000
+      internalID: -8124111698066789771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_23
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1316
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d5b4b15a3c13c50800000000000000
+      internalID: 6643306039243136341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1133
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fb43f8576083ca0800000000000000
+      internalID: -6037068198506610905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1133
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829be9977621aa2d0800000000000000
+      internalID: -3266778344072496856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_26
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1133
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a91c043010f9130800000000000000
+      internalID: 3575577742638422660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_27
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1133
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9223e13084ad89200800000000000000
+      internalID: 187139387360686633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_28
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1133
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae9b4aa71f7bd4b0800000000000000
+      internalID: -5414594387364831575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_29
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1133
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969e76341812f6e10800000000000000
+      internalID: 2193008382618102121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1bafd5ad713eec0800000000000000
+      internalID: -3538958655536057888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyGlider01_31
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 950
+        width: 319
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d113d75e25a0ee0800000000000000
+      internalID: -1294130797314237180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

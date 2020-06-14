@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 981debc95cff84740a01164c440e5c58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  transformType: 7
+  transformType: 11
   movementTypeDataItems:
   - MovementType: 0
     MovementData: {fileID: 11400000, guid: dedadc2b79a104644bacc0e976137ff6, type: 2}
@@ -65,6 +65,14 @@ MonoBehaviour:
     MovementData: {fileID: 11400000, guid: d4e59dd5ecba64341a43695955fef1b2, type: 2}
   - MovementType: 7
     MovementData: {fileID: 11400000, guid: 576251de6cb02e545994961bff1d5a5c, type: 2}
+  - MovementType: 8
+    MovementData: {fileID: 11400000, guid: 719700d8cf44dd148a55d2fcc50d11ba, type: 2}
+  - MovementType: 9
+    MovementData: {fileID: 11400000, guid: b44da171f097ae34bb764aa9a6fc189c, type: 2}
+  - MovementType: 10
+    MovementData: {fileID: 11400000, guid: 9500bb0491bf3234f90a9517494506e7, type: 2}
+  - MovementType: 11
+    MovementData: {fileID: 11400000, guid: c145caffb82c01043b5e68b5df6936b3, type: 2}
   technicalData: {fileID: 11400000, guid: 1de75a3608ce0594b9ef10b116afecf7, type: 2}
   transformParticle: {fileID: 6055202956748964948, guid: 9a55937aec4387940a8e40b9d43f7ab8,
     type: 3}
