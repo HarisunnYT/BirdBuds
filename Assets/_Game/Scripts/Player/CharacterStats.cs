@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerVariables : MonoBehaviour
+public class CharacterStats : MonoBehaviour
 {
     public float Weight = 10;
+    public float InvincibleTime = 5;
 }

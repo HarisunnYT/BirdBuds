@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : Character
 {
     #region PLAYER_EXTENSIONS
 
@@ -61,11 +61,8 @@ public class PlayerController : MonoBehaviour
 
     public CharacterData CurrentMovementData { get; private set; }
     public MovementType CurrentMovementType { get; private set; } = MovementType.Normal;
-    public Rigidbody2D Rigidbody { get; private set; }
-    public PlayerVariables PlayerVariables { get; private set; }
 
     private BaseMovement baseMovement;
-
     private Animator animator;
     private SpriteRenderer spriteRenderer;
 
@@ -96,12 +93,12 @@ public class PlayerController : MonoBehaviour
 
     #endregion
 
-    private void Awake()
+    protected override void Awake()
     {
+        base.Awake();
+
         animator = GetComponent<Animator>();
-        Rigidbody = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
-        PlayerVariables = GetComponent<PlayerVariables>();
 
         originalScale = transform.localScale;
 
@@ -239,6 +236,17 @@ public class PlayerController : MonoBehaviour
 
         Rigidbody.velocity = new Vector2(0, Rigidbody.velocity.y);
         Rigidbody.AddForce(direction * force, ForceMode2D.Impulse);
+    }
+
+    #endregion
+
+    #region COMBAT
+
+    public override void OnDamaged(int amount)
+    {
+        base.OnDamaged(amount);
+
+        SetMovementType(MovementType.Normal);
     }
 
     #endregion

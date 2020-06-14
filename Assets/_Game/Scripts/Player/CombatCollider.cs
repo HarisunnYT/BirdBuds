@@ -21,7 +21,7 @@ public class CombatCollider : MonoBehaviour
         if (damagable != null)
         {
             damagable.OnDamaged(Damage);
-            playerController.Knockback((transform.position - other.transform.position).normalized, playerController.PlayerVariables.Weight);
+            playerController.Knockback((transform.position - other.transform.position).normalized, playerController.CharacterStats.Weight);
         }
 
         IKnockable knockable = other.GetComponent<IKnockable>();

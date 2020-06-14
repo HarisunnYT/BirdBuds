@@ -78,7 +78,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Damage: 10
-  Knockback: 0.5
+  Knockback: 15
 --- !u!1 &1559206525632463343
 GameObject:
   m_ObjectHideFlags: 0
@@ -121,6 +121,7 @@ GameObject:
   - component: {fileID: 8938859172034660499}
   - component: {fileID: 5988295462337726034}
   - component: {fileID: 8938859172034660496}
+  - component: {fileID: 1835729230993174615}
   - component: {fileID: 8938859172034660460}
   - component: {fileID: 8938859172034660461}
   - component: {fileID: 8938859172034660498}
@@ -159,6 +160,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db1aae05f9313b34db77adcbd4e050d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Weight: 10
+  InvincibleTime: 1.5
 --- !u!114 &8938859172034660496
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -171,6 +174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 981debc95cff84740a01164c440e5c58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  startingHealth: 100
   transformType: 11
   movementTypeDataItems:
   - MovementType: 0
@@ -201,6 +205,21 @@ MonoBehaviour:
   scaleFlipper: {fileID: 1559206525632463343}
   transformParticle: {fileID: 6055202956748964948, guid: 9a55937aec4387940a8e40b9d43f7ab8,
     type: 3}
+--- !u!114 &1835729230993174615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8938859172034660462}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45ba889fbaf91194b887407d65b2eba4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  color: {r: 0, g: 0, b: 0, a: 0}
+  timesToFlash: 5
+  timeBetweenFlash: 0.15
 --- !u!212 &8938859172034660460
 SpriteRenderer:
   m_ObjectHideFlags: 0

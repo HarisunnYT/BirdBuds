@@ -1,9 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class WorldSpaceText : MonoBehaviour
 {
+    [SerializeField]
+    private TMP_Text displayText;
+
     private Rigidbody2D rb;
     private Rigidbody2D rigidbody
     {
@@ -24,6 +28,8 @@ public class WorldSpaceText : MonoBehaviour
     {
         this.direction = direction;
         this.duration = duration;
+
+        displayText.text = text;
 
         transform.position = startPosition;
         gameObject.SetActive(true);
