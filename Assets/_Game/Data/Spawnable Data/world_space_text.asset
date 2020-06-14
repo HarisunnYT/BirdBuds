@@ -12,5 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2859624ea0c6f9148b36de8d76de1c3f, type: 3}
   m_Name: world_space_text
   m_EditorClassIdentifier: 
-  Key: 
-  Prefab: {fileID: 0}
+  Prefab: {fileID: 6175117403410179901, guid: 0e0e1fc8dcf18e7498cfeb834306cb7c, type: 3}
