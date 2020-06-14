@@ -8,6 +8,6 @@ public class WingsMovement : BaseMovement
     {
         base.Move(deltaTime);
 
-        rigidbody.gravityScale = player.HoldingJump ? movementData.GetValue(DataKeys.GlideGravityScale) : movementData.GetValue(DataKeys.GravityScale);
+        rigidbody.gravityScale = player.HoldingJump ? movementData.GetValue(DataKeys.VariableKeys.GlideGravityScale) : movementData.GetValue(DataKeys.VariableKeys.GravityScale);
     }
 }

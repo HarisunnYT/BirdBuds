@@ -44,6 +44,9 @@ public class PlayerController : MonoBehaviour
 
     [Space()]
     [SerializeField]
+    private GameObject scaleFlipper;
+
+    [SerializeField]
     private GameObject transformParticle;
 
     public CharacterData CurrentMovementData { get; private set; }
@@ -109,14 +112,15 @@ public class PlayerController : MonoBehaviour
         {
             Direction = roundedXAxis;
             spriteRenderer.flipX = Direction == 1 ? false : true;
+            scaleFlipper.transform.localScale = new Vector3(Direction, 1, 1);
 
-            previousScaleSwappedTimer = Time.time + technicalData.GetValue(DataKeys.FlipScaleDamper);
+            previousScaleSwappedTimer = Time.time + technicalData.GetValue(DataKeys.VariableKeys.FlipScaleDamper);
         }
 
         if (Input.GetButtonDown("Jump") && Time.time > timeBetweenJumpTimer)
         {
             baseMovement.Jump();
-            timeBetweenJumpTimer = Time.time + CurrentMovementData.GetValue(DataKeys.TimeBetweenJump);
+            timeBetweenJumpTimer = Time.time + CurrentMovementData.GetValue(DataKeys.VariableKeys.TimeBetweenJump);
         }
 
         HoldingJump = Input.GetButton("Jump");
@@ -131,7 +135,7 @@ public class PlayerController : MonoBehaviour
         {
             baseMovement.Attack();
             attacking = true;
-            attackButtonTimer = Time.time + TechnicalData.GetValue(DataKeys.AttackingButtonResetDelay);
+            attackButtonTimer = Time.time + TechnicalData.GetValue(DataKeys.VariableKeys.AttackingButtonResetDelay);
         }
 
         if (Time.time > attackButtonTimer)
@@ -154,12 +158,13 @@ public class PlayerController : MonoBehaviour
 
     public float GetMaxHorizontalSpeed()
     {
-        return attacking ? CurrentMovementData.GetValue(DataKeys.MaxHorizontalSpeed) / CurrentMovementData.GetValue(DataKeys.AttackSpeedDamper) : CurrentMovementData.GetValue(DataKeys.MaxHorizontalSpeed);
+        return attacking ? CurrentMovementData.GetValue(DataKeys.VariableKeys.MaxHorizontalSpeed) / CurrentMovementData.GetValue(DataKeys.VariableKeys.AttackSpeedDamper) : 
+                           CurrentMovementData.GetValue(DataKeys.VariableKeys.MaxHorizontalSpeed);
     }
 
     public float GetMaxVerticalSpeed()
     {
-        return CurrentMovementData.GetValue(DataKeys.MaxVerticalSpeed);
+        return CurrentMovementData.GetValue(DataKeys.VariableKeys.MaxVerticalSpeed);
     }
 
     public void SetMovementType(MovementType movementType, bool displayPuffParticle = true)
@@ -180,8 +185,8 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        rigidbody.gravityScale = CurrentMovementData.GetValue(DataKeys.GravityScale);
-        rigidbody.drag = CurrentMovementData.GetValue(DataKeys.LinearDrag);
+        rigidbody.gravityScale = CurrentMovementData.GetValue(DataKeys.VariableKeys.GravityScale);
+        rigidbody.drag = CurrentMovementData.GetValue(DataKeys.VariableKeys.LinearDrag);
 
         if (baseMovement != null)
             baseMovement.Deconfigure();
