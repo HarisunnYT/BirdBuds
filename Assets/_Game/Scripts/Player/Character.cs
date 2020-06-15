@@ -1,8 +1,9 @@
-﻿using System.Collections;
+﻿using Mirror;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Character : MonoBehaviour, IHealth, IDamagable, IKnockable
+public class Character : NetworkBehaviour, IHealth, IDamagable, IKnockable
 {
     [SerializeField]
     private int startingHealth = 100;

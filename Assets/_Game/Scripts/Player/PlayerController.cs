@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using Mirror;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -106,10 +107,20 @@ public class PlayerController : Character
 
         //8 == player layer
         invertedPlayerMask = ~(1 << 8);
+
+        GameManager.Instance.AddPlayer(this);
+    }
+
+    private void OnDestroy()
+    {
+        GameManager.Instance.RemovePlayer(this);
     }
 
     private void Update()
     {
+        if (!isLocalPlayer)
+            return;
+
         InputAxis = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         int roundedXAxis = InputAxis.x > 0 ? 1 : -1;
 
@@ -124,15 +135,15 @@ public class PlayerController : Character
             else if (transformType < MovementType.Copter)
                 transformType = MovementType.BackPack;
 
-            SetMovementType(transformType);
+            SetMovementType((int)transformType);
         }
 
         //flip scale
         if (InputAxis.x != 0 && Time.time > previousScaleSwappedTimer)
         {
             Direction = roundedXAxis;
-            spriteRenderer.flipX = Direction == 1 ? false : true;
-            scaleFlipper.transform.localScale = new Vector3(Direction, 1, 1);
+
+            SetDirection(Direction);
 
             previousScaleSwappedTimer = Time.time + technicalData.GetValue(DataKeys.VariableKeys.FlipScaleDamper);
         }
@@ -147,7 +158,7 @@ public class PlayerController : Character
 
         if (Input.GetButtonDown("Transform"))
         {
-            SetMovementType(CurrentMovementType == MovementType.Normal ? transformType : MovementType.Normal);
+            SetMovementType((int)(CurrentMovementType == MovementType.Normal ? transformType : MovementType.Normal));
         }
 
         //attacking
@@ -173,6 +184,9 @@ public class PlayerController : Character
 
     private void FixedUpdate()
     {
+        if (!isLocalPlayer)
+            return;
+
         baseMovement.Update(Time.time);
 
         if (HorizontalMovementEnabled)
@@ -220,6 +234,26 @@ public class PlayerController : Character
         }
     }
 
+    private void SetMovementType(int movementType)
+    {
+        if (isServer)
+            RpcSetMovementType(movementType);
+        else
+            CmdSetMovementType(movementType);
+    }
+
+    [Command]
+    public void CmdSetMovementType(int movementType)
+    {
+        RpcSetMovementType(movementType);
+    }
+
+    [ClientRpc]
+    public void RpcSetMovementType(int movementType)
+    {
+        SetMovementType((MovementType)movementType);
+    }
+
     public float GetMaxHorizontalSpeed()
     {
         return attacking ? CurrentMovementData.GetValue(DataKeys.VariableKeys.MaxHorizontalSpeed) / CurrentMovementData.GetValue(DataKeys.VariableKeys.AttackSpeedDamper) :
@@ -239,6 +273,27 @@ public class PlayerController : Character
         Rigidbody.AddForce(direction * force, ForceMode2D.Impulse);
     }
 
+    private void SetDirection(int direction)
+    {
+        if (isServer)
+            RpcSetDirection(direction);
+        else
+            CmdSetDirection(direction);
+    }
+
+    [Command]
+    private void CmdSetDirection(int direction)
+    {
+        RpcSetDirection(direction);
+    }
+
+    [ClientRpc]
+    private void RpcSetDirection(int direction)
+    {
+        spriteRenderer.flipX = direction == 1 ? false : true;
+        scaleFlipper.transform.localScale = new Vector3(direction, 1, 1);
+    }
+
     #endregion
 
     #region COMBAT
@@ -247,7 +302,7 @@ public class PlayerController : Character
     {
         base.OnDamaged(amount);
 
-        SetMovementType(MovementType.Normal);
+        SetMovementType(0);
     }
 
     #endregion
@@ -289,4 +344,5 @@ public class PlayerController : Character
     }
 
     #endregion
+
 }
