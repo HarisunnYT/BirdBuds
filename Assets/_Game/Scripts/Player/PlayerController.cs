@@ -111,6 +111,12 @@ public class PlayerController : Character
         GameManager.Instance.AddPlayer(this);
     }
 
+    private void Start()
+    {
+        //we don't want physics on network players as their positions are set over the server
+        Rigidbody.isKinematic = !isLocalPlayer;
+    }
+
     private void OnDestroy()
     {
         GameManager.Instance.RemovePlayer(this);
