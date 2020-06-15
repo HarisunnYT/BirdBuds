@@ -168,6 +168,7 @@ public class PlayerController : Character
         animator.SetBool("Attacking", attacking);
         animator.SetBool("Grounded", Grounded);
         animator.SetBool("HoldingJump", HoldingJump);
+        animator.SetBool("Falling", !Grounded && Rigidbody.velocity.y < 0);
     }
 
     private void FixedUpdate()

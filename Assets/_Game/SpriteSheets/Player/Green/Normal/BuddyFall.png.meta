@@ -1,34 +1,34 @@
 fileFormatVersion: 2
-guid: c6dd76d03a1bbb341a74e7582423ad83
+guid: b854182cf8a48b8458abdf8f49af7188
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3613194066116026573
-    second: JumpUp_0
+      213: -1171111621991325045
+    second: BuddyJumpFall_0
   - first:
-      213: 1248962826233190561
-    second: JumpUp_1
+      213: -3405440266304055299
+    second: BuddyJumpFall_1
   - first:
-      213: 8820859656221439980
-    second: JumpUp_2
+      213: -9169352605376803426
+    second: BuddyJumpFall_2
   - first:
-      213: 1071209226711713798
-    second: JumpUp_0
+      213: 6990282455336860423
+    second: BuddyJumpFall_3
   - first:
-      213: -5981763625007856270
-    second: JumpUp_1
+      213: -330740694004119727
+    second: BuddyJumpFall_4
   - first:
-      213: -3870338493474223169
-    second: JumpUp_2
+      213: -3639231751276120572
+    second: BuddyJumpFall_5
   - first:
-      213: -2178734970718575203
-    second: JumpUp_3
+      213: -9051250534473813906
+    second: BuddyJumpFall_6
   - first:
-      213: -426787736032773329
-    second: JumpUp_4
+      213: -3518777821266331412
+    second: BuddyJumpFall_7
   - first:
-      213: 4086217955522053620
-    second: JumpUp_5
+      213: -684406436990229574
+    second: BuddyJumpFall_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -114,13 +114,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: JumpUp_0
+      name: BuddyJumpFall_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 379
-        width: 126
-        height: 118
+        x: 0
+        y: 266
+        width: 75
+        height: 244
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,20 +128,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 608c54ebd13bdde00800000000000000
-      internalID: 1071209226711713798
+      spriteID: b8220e24f206fbfe0800000000000000
+      internalID: -1171111621991325045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JumpUp_1
+      name: BuddyJumpFall_1
       rect:
         serializedVersion: 2
-        x: 140
-        y: 359
-        width: 142
-        height: 134
+        x: 77
+        y: 266
+        width: 73
+        height: 245
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 275cd010da18cfca0800000000000000
-      internalID: -5981763625007856270
+      spriteID: df7922fde127db0d0800000000000000
+      internalID: -3405440266304055299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JumpUp_2
+      name: BuddyJumpFall_2
       rect:
         serializedVersion: 2
-        x: 303
-        y: 330
-        width: 100
-        height: 177
+        x: 155
+        y: 266
+        width: 72
+        height: 245
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,20 +170,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbbc2f765abc94ac0800000000000000
-      internalID: -3870338493474223169
+      spriteID: e9d8630036aefb080800000000000000
+      internalID: -9169352605376803426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JumpUp_3
+      name: BuddyJumpFall_3
       rect:
         serializedVersion: 2
-        x: 25
-        y: 150
-        width: 90
-        height: 180
+        x: 233
+        y: 266
+        width: 70
+        height: 246
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d95299a661493c1e0800000000000000
-      internalID: -2178734970718575203
+      spriteID: 70bbff56bd8720160800000000000000
+      internalID: 6990282455336860423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JumpUp_4
+      name: BuddyJumpFall_4
       rect:
         serializedVersion: 2
-        x: 159
-        y: 169
-        width: 116
-        height: 154
+        x: 312
+        y: 266
+        width: 68
+        height: 246
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,20 +212,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2bf547b0deb31af0800000000000000
-      internalID: -426787736032773329
+      spriteID: 1574e155719f86bf0800000000000000
+      internalID: -330740694004119727
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JumpUp_5
+      name: BuddyJumpFall_5
       rect:
         serializedVersion: 2
-        x: 291
-        y: 193
-        width: 125
-        height: 114
+        x: 386
+        y: 266
+        width: 69
+        height: 246
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,8 +233,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f507b1b49925b830800000000000000
-      internalID: 4086217955522053620
+      spriteID: 4063dd1f00ade7dc0800000000000000
+      internalID: -3639231751276120572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyJumpFall_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 72
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60bf9f289f736280800000000000000
+      internalID: -9051250534473813906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyJumpFall_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 19
+        width: 73
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8b5eff63aca2fc0800000000000000
+      internalID: -3518777821266331412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyJumpFall_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 19
+        width: 77
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3e431c8ff7086f0800000000000000
+      internalID: -684406436990229574
       vertices: []
       indices: 
       edges: []

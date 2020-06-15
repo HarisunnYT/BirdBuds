@@ -1978,6 +1978,11 @@ PrefabInstance:
       propertyPath: color.a
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8938859172034660460, guid: 5cb81fba8dbb2db4faa04aeba56b05c7,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8938859172034660462, guid: 5cb81fba8dbb2db4faa04aeba56b05c7,
         type: 3}
       propertyPath: m_Name

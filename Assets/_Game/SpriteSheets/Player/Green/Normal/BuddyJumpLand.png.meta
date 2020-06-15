@@ -1,34 +1,40 @@
 fileFormatVersion: 2
-guid: c6dd76d03a1bbb341a74e7582423ad83
+guid: befe595f8f200ab4498291db034e5bd9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3613194066116026573
-    second: JumpUp_0
+      213: 5362821529072248525
+    second: BuddyJumpLand_0
   - first:
-      213: 1248962826233190561
-    second: JumpUp_1
+      213: -4577820012660536549
+    second: BuddyJumpLand_1
   - first:
-      213: 8820859656221439980
-    second: JumpUp_2
+      213: -8994190238812017395
+    second: BuddyJumpLand_2
   - first:
-      213: 1071209226711713798
-    second: JumpUp_0
+      213: 3862011446231714546
+    second: BuddyJumpLand_3
   - first:
-      213: -5981763625007856270
-    second: JumpUp_1
+      213: -439249758490130833
+    second: BuddyJumpLand_4
   - first:
-      213: -3870338493474223169
-    second: JumpUp_2
+      213: 1866750847217733392
+    second: BuddyJumpLand_5
   - first:
-      213: -2178734970718575203
-    second: JumpUp_3
+      213: -5706895202331051660
+    second: BuddyJumpLand_6
   - first:
-      213: -426787736032773329
-    second: JumpUp_4
+      213: -3795123309754696605
+    second: BuddyJumpLand_7
   - first:
-      213: 4086217955522053620
-    second: JumpUp_5
+      213: 873766453871887397
+    second: BuddyJumpLand_8
+  - first:
+      213: -2999520513321302490
+    second: BuddyJumpLand_9
+  - first:
+      213: 3733115084210375363
+    second: BuddyJumpLand_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -114,13 +120,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: JumpUp_0
+      name: BuddyJumpLand_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 379
-        width: 126
-        height: 118
+        x: 28
+        y: 350
+        width: 123
+        height: 162
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,20 +134,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 608c54ebd13bdde00800000000000000
-      internalID: 1071209226711713798
+      spriteID: dc62b2a64c19c6a40800000000000000
+      internalID: 5362821529072248525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JumpUp_1
+      name: BuddyJumpLand_1
       rect:
         serializedVersion: 2
-        x: 140
-        y: 359
+        x: 165
+        y: 349
+        width: 159
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bc1bbe3f05870c0800000000000000
+      internalID: -4577820012660536549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyJumpLand_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 350
+        width: 162
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0de25d81a73e2380800000000000000
+      internalID: -8994190238812017395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyJumpLand_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 351
         width: 142
-        height: 134
+        height: 96
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,20 +197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 275cd010da18cfca0800000000000000
-      internalID: -5981763625007856270
+      spriteID: 2fa4223d2fe989530800000000000000
+      internalID: 3862011446231714546
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JumpUp_2
+      name: BuddyJumpLand_4
       rect:
         serializedVersion: 2
-        x: 303
-        y: 330
-        width: 100
-        height: 177
+        x: 672
+        y: 350
+        width: 121
+        height: 123
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbbc2f765abc94ac0800000000000000
-      internalID: -3870338493474223169
+      spriteID: f6605810ca877e9f0800000000000000
+      internalID: -439249758490130833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JumpUp_3
+      name: BuddyJumpLand_5
       rect:
         serializedVersion: 2
-        x: 25
-        y: 150
-        width: 90
-        height: 180
+        x: 832
+        y: 351
+        width: 130
+        height: 119
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,20 +239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d95299a661493c1e0800000000000000
-      internalID: -2178734970718575203
+      spriteID: 01f829c410808e910800000000000000
+      internalID: 1866750847217733392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JumpUp_4
+      name: BuddyJumpLand_6
       rect:
         serializedVersion: 2
-        x: 159
-        y: 169
-        width: 116
-        height: 154
+        x: 9
+        y: 188
+        width: 126
+        height: 121
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,20 +260,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2bf547b0deb31af0800000000000000
-      internalID: -426787736032773329
+      spriteID: 4793da6cc090dc0b0800000000000000
+      internalID: -5706895202331051660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JumpUp_5
+      name: BuddyJumpLand_7
       rect:
         serializedVersion: 2
-        x: 291
-        y: 193
-        width: 125
-        height: 114
+        x: 177
+        y: 188
+        width: 127
+        height: 126
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,8 +281,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f507b1b49925b830800000000000000
-      internalID: 4086217955522053620
+      spriteID: 36c344b0573055bc0800000000000000
+      internalID: -3795123309754696605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyJumpLand_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 188
+        width: 127
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524cfabd5fd302c00800000000000000
+      internalID: 873766453871887397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyJumpLand_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 188
+        width: 129
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6268cfa3cff8f56d0800000000000000
+      internalID: -2999520513321302490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuddyJumpLand_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 188
+        width: 129
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca0304e360bec330800000000000000
+      internalID: 3733115084210375363
       vertices: []
       indices: 
       edges: []
