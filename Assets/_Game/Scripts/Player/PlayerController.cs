@@ -37,6 +37,7 @@ public class PlayerController : Character
 
     #region EXPOSED_VARIABLES
 
+    [Space()]
     [Header("DEBUG TRANSFORM TYPE")]
     [SerializeField]
     private MovementType transformType;
@@ -51,9 +52,6 @@ public class PlayerController : Character
 
     [Space()]
     [SerializeField]
-    private GameObject scaleFlipper;
-
-    [SerializeField]
     private GameObject transformParticle;
 
     #endregion
@@ -65,7 +63,6 @@ public class PlayerController : Character
 
     private BaseMovement baseMovement;
     private Animator animator;
-    private SpriteRenderer spriteRenderer;
 
     #endregion
 
@@ -73,15 +70,11 @@ public class PlayerController : Character
 
     public Vector2 InputAxis { get; private set; }
 
-    public bool Grounded { get; private set; } = false;
     public bool HoldingJump { get; private set; } = false;
-    public int Direction { get; private set; } = 1;
     public bool HorizontalMovementEnabled { get; private set; } = true;
     public bool VerticalMovementEnabled { get; private set; } = true;
 
-
     private Vector3 originalScale;
-    private LayerMask invertedPlayerMask;
 
     private float previousScaleSwappedTimer = 0;
     private float attackButtonTimer = 0;
@@ -99,14 +92,9 @@ public class PlayerController : Character
         base.Awake();
 
         animator = GetComponent<Animator>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
-
         originalScale = transform.localScale;
 
         SetMovementType(MovementType.Normal, false);
-
-        //8 == player layer
-        invertedPlayerMask = ~(1 << 8);
 
         GameManager.Instance.AddPlayer(this);
     }
@@ -119,13 +107,16 @@ public class PlayerController : Character
 
     private void OnDestroy()
     {
-        GameManager.Instance.RemovePlayer(this);
+        if (GameManager.Instance)
+            GameManager.Instance.RemovePlayer(this);
     }
 
-    private void Update()
+    protected override void Update()
     {
         if (!isLocalPlayer)
             return;
+
+        base.Update();
 
         InputAxis = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         int roundedXAxis = InputAxis.x > 0 ? 1 : -1;
@@ -179,8 +170,6 @@ public class PlayerController : Character
         {
             attacking = false;
         }
-
-        Grounded = Physics2D.Raycast(new Vector2(transform.position.x, transform.position.y + 0.5f), Vector2.down, 0.5f, invertedPlayerMask);
 
         animator.SetBool("Attacking", attacking);
         animator.SetBool("Grounded", Grounded);
@@ -277,27 +266,6 @@ public class PlayerController : Character
 
         Rigidbody.velocity = new Vector2(0, Rigidbody.velocity.y);
         Rigidbody.AddForce(direction * force, ForceMode2D.Impulse);
-    }
-
-    private void SetDirection(int direction)
-    {
-        if (isServer)
-            RpcSetDirection(direction);
-        else
-            CmdSetDirection(direction);
-    }
-
-    [Command]
-    private void CmdSetDirection(int direction)
-    {
-        RpcSetDirection(direction);
-    }
-
-    [ClientRpc]
-    private void RpcSetDirection(int direction)
-    {
-        spriteRenderer.flipX = direction == 1 ? false : true;
-        scaleFlipper.transform.localScale = new Vector3(direction, 1, 1);
     }
 
     #endregion

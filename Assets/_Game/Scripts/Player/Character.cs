@@ -8,12 +8,23 @@ public class Character : NetworkBehaviour, IHealth, IDamagable, IKnockable
     [SerializeField]
     private int startingHealth = 100;
 
+    [SerializeField]
+    protected LayerMask invertedCharacterMask;
+
+    [Space()]
+    [SerializeField]
+    private GameObject scaleFlipper;
+
     public int Health { get; set; }
     public bool Alive { get; set; } = true;
     public bool Invincible { get; set; }
+    public int Direction { get; protected set; } = 1;
+    public bool Grounded { get; protected set; } = false;
 
     public Rigidbody2D Rigidbody { get; private set; }
     public CharacterStats CharacterStats { get; private set; }
+
+    protected SpriteRenderer spriteRenderer { get; private set; }
 
     private ColorFlash damageFlash;
     private ColorFlash currentFlash;
@@ -24,7 +35,7 @@ public class Character : NetworkBehaviour, IHealth, IDamagable, IKnockable
     {
         Rigidbody = GetComponent<Rigidbody2D>();
         CharacterStats = GetComponent<CharacterStats>();
-
+        spriteRenderer = GetComponent<SpriteRenderer>();
         damageFlash = GetComponent<ColorFlash>();
 
         Health = startingHealth;
@@ -60,6 +71,11 @@ public class Character : NetworkBehaviour, IHealth, IDamagable, IKnockable
         }
     }
 
+    protected virtual void Update()
+    {
+        Grounded = Physics2D.Raycast(new Vector2(transform.position.x, transform.position.y + 0.5f), Vector2.down, 0.5f, invertedCharacterMask);
+    }
+
     protected virtual void OnDeath()
     {
         Alive = false;
@@ -71,6 +87,27 @@ public class Character : NetworkBehaviour, IHealth, IDamagable, IKnockable
         {
             Rigidbody.AddForce(direction * knockback, ForceMode2D.Impulse);
         }
+    }
+
+    protected void SetDirection(int direction)
+    {
+        if (isServer)
+            RpcSetDirection(direction);
+        else
+            CmdSetDirection(direction);
+    }
+
+    [Command]
+    protected void CmdSetDirection(int direction)
+    {
+        RpcSetDirection(direction);
+    }
+
+    [ClientRpc]
+    protected void RpcSetDirection(int direction)
+    {
+        spriteRenderer.flipX = direction == 1 ? false : true;
+        scaleFlipper.transform.localScale = new Vector3(direction, 1, 1);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

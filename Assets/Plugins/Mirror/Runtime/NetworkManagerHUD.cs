@@ -118,7 +118,7 @@ namespace Mirror
             }
         }
 
-        void HideGUI()
+        public void HideGUI()
         {
             showGUI = false;
         }

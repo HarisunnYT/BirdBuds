@@ -1,5 +1,35 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5655420652238022027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1547018156234991200}
+  m_Layer: 0
+  m_Name: ScaleFlipper
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1547018156234991200
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5655420652238022027}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6924253205366169415}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6924253205366169411
 GameObject:
   m_ObjectHideFlags: 0
@@ -20,7 +50,7 @@ GameObject:
   - component: {fileID: 7750092689023965710}
   - component: {fileID: 5276125783519273593}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: Zipper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36,7 +66,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -4.19, y: -3.28, z: -2.2822266}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1547018156234991200}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -55,6 +86,11 @@ MonoBehaviour:
   syncMode: 0
   syncInterval: 0.1
   startingHealth: 1000000
+  invertedCharacterMask:
+    serializedVersion: 2
+    m_Bits: 311
+  scaleFlipper: {fileID: 5655420652238022027}
+  technicalData: {fileID: 11400000, guid: 1de75a3608ce0594b9ef10b116afecf7, type: 2}
 --- !u!114 &2590934837284162326
 MonoBehaviour:
   m_ObjectHideFlags: 0

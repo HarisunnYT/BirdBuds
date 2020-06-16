@@ -195,6 +195,8 @@ namespace Mirror
         //    during FinishLoadScene.
         public NetworkManagerMode mode { get; private set; }
 
+        public NetworkManagerHUD HUD;
+
         #region Unity Callbacks
 
         /// <summary>
@@ -243,6 +245,8 @@ namespace Mirror
 
             // setup OnSceneLoaded callback
             SceneManager.sceneLoaded += OnSceneLoaded;
+
+            HUD = GetComponent<NetworkManagerHUD>();
         }
 
         /// <summary>

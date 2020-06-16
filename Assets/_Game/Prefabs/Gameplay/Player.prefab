@@ -180,6 +180,10 @@ MonoBehaviour:
   syncMode: 0
   syncInterval: 0.1
   startingHealth: 100
+  invertedCharacterMask:
+    serializedVersion: 2
+    m_Bits: 55
+  scaleFlipper: {fileID: 1559206525632463343}
   transformType: 11
   movementTypeDataItems:
   - MovementType: 0
@@ -207,7 +211,6 @@ MonoBehaviour:
   - MovementType: 11
     MovementData: {fileID: 11400000, guid: c145caffb82c01043b5e68b5df6936b3, type: 2}
   technicalData: {fileID: 11400000, guid: 1de75a3608ce0594b9ef10b116afecf7, type: 2}
-  scaleFlipper: {fileID: 1559206525632463343}
   transformParticle: {fileID: 6055202956748964948, guid: 9a55937aec4387940a8e40b9d43f7ab8,
     type: 3}
 --- !u!114 &1835729230993174615
