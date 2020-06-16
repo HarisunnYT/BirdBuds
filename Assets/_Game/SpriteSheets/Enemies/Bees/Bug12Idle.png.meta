@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 19344686d22f83048bc310ca3c31d369
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5867074446413578554
+    second: Bug12Idle_0
+  - first:
+      213: 4028490479353037710
+    second: Bug12Idle_1
+  - first:
+      213: -3960148154435164980
+    second: Bug12Idle_2
+  - first:
+      213: -9103819981529858708
+    second: Bug12Idle_3
+  - first:
+      213: 973363112728564070
+    second: Bug12Idle_4
+  - first:
+      213: 2340791974186214225
+    second: Bug12Idle_5
+  - first:
+      213: 555215195441634052
+    second: Bug12Idle_6
+  - first:
+      213: -5060106572940170327
+    second: Bug12Idle_7
+  - first:
+      213: 3995828073539791702
+    second: Bug12Idle_8
+  - first:
+      213: -103599459325709169
+    second: Bug12Idle_9
+  - first:
+      213: 8717428203956217378
+    second: Bug12Idle_10
+  - first:
+      213: -5756975982349006447
+    second: Bug12Idle_11
+  - first:
+      213: 2157142528268282312
+    second: Bug12Idle_12
+  - first:
+      213: -1825448734708624354
+    second: Bug12Idle_13
+  - first:
+      213: 421108724908010312
+    second: Bug12Idle_14
+  - first:
+      213: 2410415838177172549
+    second: Bug12Idle_15
+  - first:
+      213: -7726975723125352463
+    second: Bug12Idle_16
+  - first:
+      213: 1360267894018398752
+    second: Bug12Idle_17
+  - first:
+      213: -6400629504359305061
+    second: Bug12Idle_18
+  - first:
+      213: 847257348961741115
+    second: Bug12Idle_19
+  - first:
+      213: 8431298634247722255
+    second: Bug12Idle_20
+  - first:
+      213: -7331808664688778748
+    second: Bug12Idle_21
+  - first:
+      213: -9027790792586602942
+    second: Bug12Idle_22
+  - first:
+      213: -3596892587147699066
+    second: Bug12Idle_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bug12Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce3fb640e6f39ea0800000000000000
+      internalID: -5867074446413578554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 871
+        width: 162
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8381e24fb218e730800000000000000
+      internalID: 4028490479353037710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 870
+        width: 160
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc429fc3c3aba09c0800000000000000
+      internalID: -3960148154435164980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 870
+        width: 157
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d3fcdf5fbb8a180800000000000000
+      internalID: -9103819981529858708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 869
+        width: 155
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66197ab0894128d00800000000000000
+      internalID: 973363112728564070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_5
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 868
+        width: 152
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153647206e92c7020800000000000000
+      internalID: 2340791974186214225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 706
+        width: 150
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9232574584b700800000000000000
+      internalID: 555215195441634052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 705
+        width: 147
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab284aa1e3e6c9b0800000000000000
+      internalID: -5060106572940170327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 705
+        width: 146
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b6fda4678047730800000000000000
+      internalID: 3995828073539791702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 704
+        width: 144
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84f7f337d0ff8ef0800000000000000
+      internalID: -103599459325709169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 703
+        width: 141
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22628cbb3c68af870800000000000000
+      internalID: 8717428203956217378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_11
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 702
+        width: 139
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199c1a788dc1b10b0800000000000000
+      internalID: -5756975982349006447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 542
+        width: 141
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9a15f43b5bfed10800000000000000
+      internalID: 2157142528268282312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 543
+        width: 143
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1491042c04baa6e0800000000000000
+      internalID: -1825448734708624354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 544
+        width: 146
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ba5f7772418d500800000000000000
+      internalID: 421108724908010312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 544
+        width: 147
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c96831f64837120800000000000000
+      internalID: 2410415838177172549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_16
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 545
+        width: 149
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7db03e48444c490800000000000000
+      internalID: -7726975723125352463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 546
+        width: 151
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ad55e4174a0e210800000000000000
+      internalID: 1360267894018398752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 385
+        width: 153
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9077c5b0656c27a0800000000000000
+      internalID: -6400629504359305061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 386
+        width: 156
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b392436e11012cb00800000000000000
+      internalID: 847257348961741115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 387
+        width: 157
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f055299df6df10570800000000000000
+      internalID: 8431298634247722255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_21
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 387
+        width: 160
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40228147dde204a90800000000000000
+      internalID: -7331808664688778748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 388
+        width: 162
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246555dfa18d6b280800000000000000
+      internalID: -9027790792586602942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bug12Idle_23
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 389
+        width: 164
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c53d7cf35451ec0800000000000000
+      internalID: -3596892587147699066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tubsy
+  m_Controller: {fileID: 9100000, guid: 71afcb9a19db167439cb20c0376af196, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3ea20ec47ae9ba2439e50c9e6b2440d7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e336199da80509b46aadf6988484d0b7, type: 2}
