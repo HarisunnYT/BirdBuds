@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using NodeCanvas;
+using NodeCanvas.StateMachines;
 
 public class Enemy : Character
 {
@@ -15,6 +16,12 @@ public class Enemy : Character
 
     #endregion
 
+    #region COMPONENTS
+
+    private FSMOwner fmsOwner;
+
+    #endregion
+
     #region RUNTIME_VARIABLES
 
     private float previousScaleSwappedTimer = 0;
@@ -24,6 +31,7 @@ public class Enemy : Character
     private void Start()
     {
         Rigidbody.isKinematic = !isServer;
+        fmsOwner.enabled = isServer;
     }
 
     protected override void Update()
