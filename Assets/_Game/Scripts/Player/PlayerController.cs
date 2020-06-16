@@ -308,7 +308,7 @@ public class PlayerController : Character
     {
         base.OnDamaged(amount);
 
-        SetMovementType(0);
+        //SetMovementType(0);
     }
 
     #endregion
