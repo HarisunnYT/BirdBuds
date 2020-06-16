@@ -282,10 +282,10 @@ TextureImporter:
       name: BuddyBalloon01_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1707
-        width: 284
-        height: 341
+        x: 28
+        y: 1716
+        width: 234
+        height: 321
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,10 +303,10 @@ TextureImporter:
       name: BuddyBalloon01_1
       rect:
         serializedVersion: 2
-        x: 284
-        y: 1707
-        width: 284
-        height: 341
+        x: 309
+        y: 1722
+        width: 240
+        height: 316
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,10 +324,10 @@ TextureImporter:
       name: BuddyBalloon01_2
       rect:
         serializedVersion: 2
-        x: 568
-        y: 1707
-        width: 284
-        height: 341
+        x: 591
+        y: 1727
+        width: 246
+        height: 313
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,10 +345,10 @@ TextureImporter:
       name: BuddyBalloon01_3
       rect:
         serializedVersion: 2
-        x: 852
-        y: 1707
-        width: 284
-        height: 341
+        x: 873
+        y: 1732
+        width: 251
+        height: 309
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: BuddyBalloon01_4
       rect:
         serializedVersion: 2
-        x: 1136
-        y: 1707
-        width: 284
-        height: 341
+        x: 1155
+        y: 1737
+        width: 256
+        height: 305
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,10 +387,10 @@ TextureImporter:
       name: BuddyBalloon01_5
       rect:
         serializedVersion: 2
-        x: 1420
-        y: 1707
-        width: 284
-        height: 341
+        x: 1437
+        y: 1743
+        width: 261
+        height: 300
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -408,10 +408,10 @@ TextureImporter:
       name: BuddyBalloon01_6
       rect:
         serializedVersion: 2
-        x: 1704
-        y: 1707
-        width: 284
-        height: 341
+        x: 1720
+        y: 1748
+        width: 265
+        height: 296
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -429,10 +429,10 @@ TextureImporter:
       name: BuddyBalloon01_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1366
-        width: 284
-        height: 341
+        x: 8
+        y: 1410
+        width: 269
+        height: 294
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +450,10 @@ TextureImporter:
       name: BuddyBalloon01_8
       rect:
         serializedVersion: 2
-        x: 284
-        y: 1366
-        width: 284
-        height: 341
+        x: 291
+        y: 1412
+        width: 272
+        height: 292
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -471,10 +471,10 @@ TextureImporter:
       name: BuddyBalloon01_9
       rect:
         serializedVersion: 2
-        x: 568
-        y: 1366
-        width: 284
-        height: 341
+        x: 574
+        y: 1414
+        width: 275
+        height: 291
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,10 +492,10 @@ TextureImporter:
       name: BuddyBalloon01_10
       rect:
         serializedVersion: 2
-        x: 852
-        y: 1366
-        width: 284
-        height: 341
+        x: 858
+        y: 1416
+        width: 278
+        height: 289
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -513,10 +513,10 @@ TextureImporter:
       name: BuddyBalloon01_11
       rect:
         serializedVersion: 2
-        x: 1136
-        y: 1366
-        width: 284
-        height: 341
+        x: 1142
+        y: 1417
+        width: 280
+        height: 289
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -534,10 +534,10 @@ TextureImporter:
       name: BuddyBalloon01_12
       rect:
         serializedVersion: 2
-        x: 1420
-        y: 1366
-        width: 284
-        height: 341
+        x: 1426
+        y: 1419
+        width: 282
+        height: 287
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -555,10 +555,10 @@ TextureImporter:
       name: BuddyBalloon01_13
       rect:
         serializedVersion: 2
-        x: 1706
-        y: 1366
-        width: 288
-        height: 341
+        x: 1710
+        y: 1421
+        width: 283
+        height: 285
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -577,9 +577,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1025
+        y: 1081
         width: 284
-        height: 341
+        height: 285
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -598,9 +598,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 284
-        y: 1025
-        width: 284
-        height: 341
+        y: 1082
+        width: 285
+        height: 284
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -618,10 +618,10 @@ TextureImporter:
       name: BuddyBalloon01_16
       rect:
         serializedVersion: 2
-        x: 568
-        y: 1025
-        width: 284
-        height: 341
+        x: 569
+        y: 1078
+        width: 285
+        height: 288
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -639,10 +639,10 @@ TextureImporter:
       name: BuddyBalloon01_17
       rect:
         serializedVersion: 2
-        x: 852
-        y: 1025
-        width: 284
-        height: 341
+        x: 858
+        y: 1071
+        width: 278
+        height: 294
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -660,10 +660,10 @@ TextureImporter:
       name: BuddyBalloon01_18
       rect:
         serializedVersion: 2
-        x: 1136
-        y: 1025
-        width: 284
-        height: 341
+        x: 1146
+        y: 1066
+        width: 272
+        height: 298
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -681,10 +681,10 @@ TextureImporter:
       name: BuddyBalloon01_19
       rect:
         serializedVersion: 2
-        x: 1420
-        y: 1025
-        width: 284
-        height: 341
+        x: 1434
+        y: 1061
+        width: 266
+        height: 301
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -702,10 +702,10 @@ TextureImporter:
       name: BuddyBalloon01_20
       rect:
         serializedVersion: 2
-        x: 1704
-        y: 1025
-        width: 284
-        height: 341
+        x: 1722
+        y: 1058
+        width: 261
+        height: 303
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -723,10 +723,10 @@ TextureImporter:
       name: BuddyBalloon01_21
       rect:
         serializedVersion: 2
-        x: 0
-        y: 684
-        width: 284
-        height: 341
+        x: 14
+        y: 712
+        width: 257
+        height: 307
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -744,10 +744,10 @@ TextureImporter:
       name: BuddyBalloon01_22
       rect:
         serializedVersion: 2
-        x: 284
-        y: 684
-        width: 284
-        height: 341
+        x: 302
+        y: 706
+        width: 252
+        height: 312
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -765,10 +765,10 @@ TextureImporter:
       name: BuddyBalloon01_23
       rect:
         serializedVersion: 2
-        x: 568
-        y: 684
-        width: 284
-        height: 341
+        x: 589
+        y: 701
+        width: 249
+        height: 316
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -786,10 +786,10 @@ TextureImporter:
       name: BuddyBalloon01_24
       rect:
         serializedVersion: 2
-        x: 852
-        y: 684
-        width: 284
-        height: 341
+        x: 876
+        y: 697
+        width: 245
+        height: 320
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -807,10 +807,10 @@ TextureImporter:
       name: BuddyBalloon01_25
       rect:
         serializedVersion: 2
-        x: 1136
-        y: 684
-        width: 284
-        height: 341
+        x: 1163
+        y: 694
+        width: 242
+        height: 322
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -828,10 +828,10 @@ TextureImporter:
       name: BuddyBalloon01_26
       rect:
         serializedVersion: 2
-        x: 1420
-        y: 684
-        width: 284
-        height: 341
+        x: 1450
+        y: 691
+        width: 239
+        height: 324
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -849,10 +849,10 @@ TextureImporter:
       name: BuddyBalloon01_27
       rect:
         serializedVersion: 2
-        x: 1704
-        y: 684
-        width: 284
-        height: 341
+        x: 1736
+        y: 688
+        width: 237
+        height: 327
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -870,10 +870,10 @@ TextureImporter:
       name: BuddyBalloon01_28
       rect:
         serializedVersion: 2
-        x: 0
-        y: 343
-        width: 284
-        height: 341
+        x: 27
+        y: 346
+        width: 236
+        height: 327
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -891,10 +891,10 @@ TextureImporter:
       name: BuddyBalloon01_29
       rect:
         serializedVersion: 2
-        x: 284
-        y: 343
-        width: 284
-        height: 341
+        x: 313
+        y: 344
+        width: 235
+        height: 329
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -912,10 +912,10 @@ TextureImporter:
       name: BuddyBalloon01_30
       rect:
         serializedVersion: 2
-        x: 568
-        y: 343
-        width: 284
-        height: 341
+        x: 598
+        y: 344
+        width: 234
+        height: 329
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -933,10 +933,10 @@ TextureImporter:
       name: BuddyBalloon01_31
       rect:
         serializedVersion: 2
-        x: 852
+        x: 883
         y: 343
-        width: 284
-        height: 341
+        width: 234
+        height: 330
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

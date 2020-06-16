@@ -7,6 +7,11 @@ public class GameManager : Singleton<GameManager>
 {
     public List<PlayerController> Players { get; private set; } = new List<PlayerController>();
 
+    private void Update()
+    {
+        Debug.Log(NetworkManager.singleton.networkAddress);
+    }
+
     public void AddPlayer(PlayerController player)
     {
         Players.Add(player);
