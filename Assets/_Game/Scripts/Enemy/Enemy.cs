@@ -18,7 +18,8 @@ public class Enemy : Character
 
     #region COMPONENTS
 
-    private FSMOwner fmsOwner;
+    private FSMOwner fsmOwner;
+    private PolyNavAgent agent;
 
     #endregion
 
@@ -30,17 +31,20 @@ public class Enemy : Character
 
     private void Start()
     {
+        fsmOwner = GetComponent<FSMOwner>();
+        agent = GetComponent<PolyNavAgent>();
+
         Rigidbody.isKinematic = !isServer;
-        fmsOwner.enabled = isServer;
+        fsmOwner.enabled = isServer;
     }
 
     protected override void Update()
     {
         base.Update();
 
-        if (Time.time > previousScaleSwappedTimer && ((Rigidbody.velocity.x > 0 && Direction == 1) || (Rigidbody.velocity.x < 0 && Direction == -1)))
+        if (Time.time > previousScaleSwappedTimer && ((agent.movingDirection.x > 0 && Direction == 1) || (agent.movingDirection.x < 0 && Direction == -1)))
         {
-            Direction = Rigidbody.velocity.x > 0 ? -1 : 1;
+            Direction = agent.movingDirection.x > 0 ? -1 : 1;
 
             SetDirection(Direction);
 
@@ -49,16 +53,6 @@ public class Enemy : Character
     }
 
     #region MOVEMENT
-
-    public void MoveTowards(GameObject obj, float distanceToStop)
-    {
-        var direction = Vector3.zero;
-        if (Vector3.Distance(transform.position, obj.transform.position) > distanceToStop)
-        {
-            direction = obj.transform.position - transform.position;
-            Rigidbody?.AddRelativeForce(direction.normalized * movementData.GetValue("horizontal_acceleration"), ForceMode2D.Force);
-        }
-    }
 
     #endregion
 }

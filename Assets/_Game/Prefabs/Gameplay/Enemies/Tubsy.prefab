@@ -51,6 +51,7 @@ GameObject:
   - component: {fileID: 8460264635506451410}
   - component: {fileID: 1652895362}
   - component: {fileID: 1652895363}
+  - component: {fileID: 973756786}
   m_Layer: 9
   m_Name: Tubsy
   m_TagString: Untagged
@@ -318,3 +319,31 @@ MonoBehaviour:
     mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"Player":{"_name":"Player","_id":"7b4a18d4-0147-4ed7-992d-1a0df8e6f666","$type":"NodeCanvas.Framework.Variable`1[[UnityEngine.GameObject,
     UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"}}}'
   _objectReferences: []
+--- !u!114 &973756786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6649448525412081384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93cc6a4987f7c684798156c56d545838, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _map: {fileID: 0}
+  maxSpeed: 3.5
+  mass: 20
+  stoppingDistance: 0.1
+  slowingDistance: 1
+  accelerationRate: 2
+  decelerationRate: 2
+  lookAheadDistance: 1
+  avoidRadius: 0
+  centerOffset: {x: 0, y: 0}
+  rotateTransform: 0
+  rotateSpeed: 350
+  repath: 1
+  restrict: 0
+  closerPointOnInvalid: 1
+  debugPath: 1
