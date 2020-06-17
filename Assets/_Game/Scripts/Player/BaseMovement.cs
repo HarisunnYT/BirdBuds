@@ -55,13 +55,18 @@ public class BaseMovement
     {
         rigidbody.AddForce(new Vector2(0, player.InputAxis.y * movementData.GetValue(DataKeys.VariableKeys.VerticalAcceleration)));
     }
+    public virtual void Update(float time) 
+    {
+        //if the movement data doesn't have a grounded drag, it'll default to the flying drag (as most movement types are flying)
+        float drag = movementData.GetValue(DataKeys.VariableKeys.GroundedLinearDrag, movementData.GetValue(DataKeys.VariableKeys.FlyingLinearDrag));
+        rigidbody.drag = player.Grounded ? drag : movementData.GetValue(DataKeys.VariableKeys.FlyingLinearDrag);
 
-    public virtual void Attack() { }
+    }
 
-    public virtual void Update(float time) { }
-
-    public virtual void Deconfigure() 
+    public virtual void Deconfigure()
     {
         player.transform.rotation = Quaternion.identity;
     }
+
+    public virtual void Attack() { }
 }

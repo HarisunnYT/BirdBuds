@@ -21,9 +21,11 @@ MonoBehaviour:
     value: 150
   - keyName: gravity_scale
     value: 10
-  - keyName: linear_drag
-    value: 0
+  - keyName: grounded_linear_drag
+    value: 2
   - keyName: jump_force
-    value: 1250
+    value: 1350
   - keyName: jump_requires_grounded
     value: 1
+  - keyName: flying_linear_drag
+    value: 0

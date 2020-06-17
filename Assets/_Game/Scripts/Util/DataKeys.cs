@@ -12,7 +12,8 @@ public class DataKeys
         public const string HorizontalAcceleration = "horizontal_acceleration";
         public const string VerticalAcceleration = "vertical_acceleration";
         public const string GravityScale = "gravity_scale";
-        public const string LinearDrag = "linear_drag";
+        public const string GroundedLinearDrag = "grounded_linear_drag";
+        public const string FlyingLinearDrag = "flying_linear_drag";
         public const string JumpForce = "jump_force";
         public const string JumpRequiresGrounded = "jump_requires_grounded";
         public const string TimeBetweenJump = "time_between_jump";

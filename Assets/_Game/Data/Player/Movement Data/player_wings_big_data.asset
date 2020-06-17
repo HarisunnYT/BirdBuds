@@ -17,7 +17,7 @@ MonoBehaviour:
     value: 25
   - keyName: gravity_scale
     value: 2
-  - keyName: linear_drag
+  - keyName: flying_linear_drag
     value: 2
   - keyName: max_horizontal_speed
     value: 9999

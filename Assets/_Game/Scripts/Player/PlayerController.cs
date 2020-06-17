@@ -212,7 +212,6 @@ public class PlayerController : Character
         }
 
         Rigidbody.gravityScale = CurrentMovementData.GetValue(DataKeys.VariableKeys.GravityScale);
-        Rigidbody.drag = CurrentMovementData.GetValue(DataKeys.VariableKeys.LinearDrag);
 
         if (baseMovement != null)
             baseMovement.Deconfigure();
