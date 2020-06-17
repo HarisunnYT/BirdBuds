@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: c70792cb8de9e304fb76c2e52257ba0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1452441803801857194
+    second: Leaf01_0
+  - first:
+      213: 2757262410227152816
+    second: Leaf01_1
+  - first:
+      213: -1563588482409397232
+    second: Leaf01_2
+  - first:
+      213: 4216773705019989891
+    second: Leaf01_3
+  - first:
+      213: -8683531140944830233
+    second: Leaf01_4
+  - first:
+      213: -2320777336926297830
+    second: Leaf01_5
+  - first:
+      213: -4539266944387052361
+    second: Leaf01_6
+  - first:
+      213: -5823444010749495458
+    second: Leaf01_7
+  - first:
+      213: -6697293301595139310
+    second: Leaf01_8
+  - first:
+      213: -2464010373740794328
+    second: Leaf01_9
+  - first:
+      213: 5834287703337972876
+    second: Leaf01_10
+  - first:
+      213: -2444667383795647807
+    second: Leaf01_11
+  - first:
+      213: -9192845855625673914
+    second: Leaf01_12
+  - first:
+      213: -6702024487438280129
+    second: Leaf01_13
+  - first:
+      213: -3879151019596224477
+    second: Leaf01_14
+  - first:
+      213: 6120963156125047518
+    second: Leaf01_15
+  - first:
+      213: -3331184591453263016
+    second: Leaf01_16
+  - first:
+      213: 6637925787865266300
+    second: Leaf01_17
+  - first:
+      213: 6309491335418779905
+    second: Leaf01_18
+  - first:
+      213: -3629536446275998345
+    second: Leaf01_19
+  - first:
+      213: 8578591820625736882
+    second: Leaf01_20
+  - first:
+      213: 1386214803466273060
+    second: Leaf01_21
+  - first:
+      213: 8608214467892195712
+    second: Leaf01_22
+  - first:
+      213: -8424503777179746973
+    second: Leaf01_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leaf01_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 891
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac898c002c182410800000000000000
+      internalID: 1452441803801857194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 890
+        width: 281
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b77022bd83c34620800000000000000
+      internalID: 2757262410227152816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 889
+        width: 287
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014881b3f840d4ae0800000000000000
+      internalID: -1563588482409397232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_3
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 887
+        width: 293
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f9ce1e75df48a30800000000000000
+      internalID: 4216773705019989891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_4
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 886
+        width: 300
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0e0f34f66ed7780800000000000000
+      internalID: -8683531140944830233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_5
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 889
+        width: 290
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a112bbdde41facfd0800000000000000
+      internalID: -2320777336926297830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 756
+        width: 281
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc032f93c84101c0800000000000000
+      internalID: -4539266944387052361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 758
+        width: 271
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5776e1b688fe2fa0800000000000000
+      internalID: -5823444010749495458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 760
+        width: 262
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21391d9d93f6e03a0800000000000000
+      internalID: -6697293301595139310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_9
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 759
+        width: 265
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e6d46be931ecdd0800000000000000
+      internalID: -2464010373740794328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_10
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 756
+        width: 270
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84b3ea31cd87f050800000000000000
+      internalID: 5834287703337972876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_11
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 754
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca70e287fbc21ed0800000000000000
+      internalID: -2444667383795647807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 617
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643828c66637c6080800000000000000
+      internalID: -9192845855625673914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 617
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a954ecc30adf2a0800000000000000
+      internalID: -6702024487438280129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_14
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 617
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3286fd643bc7a2ac0800000000000000
+      internalID: -3879151019596224477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_15
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 617
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda561c6f8702f450800000000000000
+      internalID: 6120963156125047518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_16
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 617
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b6c21734145c1d0800000000000000
+      internalID: -3331184591453263016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_17
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 617
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783d17b556ae1c50800000000000000
+      internalID: 6637925787865266300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 480
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1099a01c0f0df8750800000000000000
+      internalID: 6309491335418779905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 480
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77da26c05db41adc0800000000000000
+      internalID: -3629536446275998345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_20
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 480
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4f77d3fc74d0770800000000000000
+      internalID: 8578591820625736882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_21
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 480
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421cefee403dc3310800000000000000
+      internalID: 1386214803466273060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_22
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 480
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081b7154375867770800000000000000
+      internalID: 8608214467892195712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf01_23
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 480
+        width: 274
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36db3481376261b80800000000000000
+      internalID: -8424503777179746973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

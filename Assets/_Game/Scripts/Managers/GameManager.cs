@@ -1,6 +1,7 @@
 ﻿using Mirror;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using UnityEngine;
 
 public class GameManager : Singleton<GameManager>
@@ -28,6 +29,24 @@ public class GameManager : Singleton<GameManager>
     public void RemovePlayer(PlayerController player)
     {
         Players.Remove(player);
+    }
+
+    public bool IsPlayer(GameObject obj)
+    {
+        return obj.layer == LayerMask.NameToLayer("Player");
+    }
+
+    public PlayerController GetPlayerFromObject(GameObject obj)
+    {
+        foreach(var player in Players)
+        {
+            if (player.gameObject == obj)
+            {
+                return player;
+            }
+        }
+
+        return null;
     }
 
 #if UNITY_EDITOR
